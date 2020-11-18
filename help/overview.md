@@ -8,7 +8,7 @@ activity: use
 doc-type: overview
 team: Technical Marketing
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 7e062f0d54cefa280f7c708850d5831808d7a3d0
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 12%
@@ -28,17 +28,14 @@ Audience Manager Tutorials 사이트에 오신 것을 환영합니다.  이 자�
 
 * **[개요 [!UICONTROL Profile Merge Rules] (비디오)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   <br>
    *마케터의 가치 [!UICONTROL Profile Merge Rules] 를 파악하고 작업 방식을 파악합니다.*
 
 * **[[!UICONTROL Profile Merge Rule]예제 및 사용 사례](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   <br>
    *이 비디오에서는 다양한 사례 [!UICONTROL Profile Merge Rules] 와 그 의미뿐만 아니라 이 비디오에 대해 [!UICONTROL Profile Merge Rules] 해결할 수 있는 사용 사례를 볼 수 있습니다.*
 
 * **[만들기 및 구성[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   <br>
    *Audience Manager UI에서 설정 방법 [!DNL People-Based Destination] 을 알아봅니다.*
 
 ## 직원 선택
