@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 자습서
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: af695bf5ffdb5abb16292f9de4682c132c55250b
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '725'
 ht-degree: 5%
 
 ---
@@ -126,6 +126,9 @@ ht-degree: 5%
       + [사람 기반 대상 만들기 및 구성](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
       + [LinkedIn 사람 기반 대상 이해 및 구성](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
       + [Google 고객 일치 사람 기반 대상 이해 및 구성](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
++ 보고서 {#reports}
+   + [트레이트 및 세그먼트와 함께 일반 보고서 사용](reports/using-general-reports-with-traits-and-segments.md)
+   + [트레이트 및 세그먼트와 함께 트렌드 보고서 사용](reports/using-trended-reports-with-traits-and-segments.md)
 + 기타 통합 {#other-integrations}
    + Ad Cloud과 통합 {#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud 및 Adobe Audience Manager 통합](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
