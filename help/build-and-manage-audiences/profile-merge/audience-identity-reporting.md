@@ -19,6 +19,6 @@ ht-degree: 1%
 
 # [!DNL Audience Identity] 보고
 
-[!DNL Audience Identity] 보고 기능을 사용하면 ID의 개인/세대 정의별 [!UICONTROL trait] 또는 총 인구 [!UICONTROL segment] 에 대해 보고할 수 있습니다. 이 비디오를 통해 Audience Manager 보고서에서 어떻게 나타나는지 확인할 수 있습니다.
+[!DNL Audience Identity] 보고 기능을 사용하면 ID의 개인/가구 정의 [!UICONTROL trait] 나 [!UICONTROL segment] 의 총 모집단 수를 보고할 수 있습니다. 이 비디오를 통해 Audience Manager 보고서에서 어떻게 나타나는지 확인할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
