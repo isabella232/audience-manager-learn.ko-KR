@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 규칙 기반 특성 만들기
 
-Audience Manager UI에서 [!UICONTROL Trait Builder] 를 사용하여 규칙 기반 트레이트를 만들고 실시간 활동을 Audience Manager 프로필에 캡처하는 방법을 알아봅니다.
+Audience Manager UI에서 [!UICONTROL Trait Builder]을 사용하여 규칙 기반 트레이트를 만드는 방법을 학습하여 실시간 활동을 Audience Manager 프로파일로 캡처할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)
