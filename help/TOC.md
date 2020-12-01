@@ -16,14 +16,14 @@ ht-degree: 5%
 # Audience Manager 자습서 {#tutorials}
 
 + [개요](overview.md)
-+ Audience Manager 소개 {#intro-to-audience-manager}
++ Audience Manager {#intro-to-audience-manager} 소개
    + [DMP를 통한 비즈니스 혁신](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - DMP 개요](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Audience Manager 사용 사례](intro-to-audience-manager/audience-manager-use-cases.md)
    + [기본 용어 및 개념 이해](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [Audience Manager의 데이터 흐름 이해](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
    + [Audience Manager의 ID 소개](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
-   + 가치 실현 {#value-realization}
+   + 값 구현 {#value-realization}
       + [고객 제한 사용 사례에서 ROI 측정](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + 설정 및 관리 {#setup-and-admin}
    + 데이터 소스 {#data-sources}
@@ -53,7 +53,7 @@ ht-degree: 5%
       + [세그먼트 수준에서 Audience Marketplace의 타사 데이터 사용 보고](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Audience Marketplace에 데이터 사용량 일괄 업로드](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [필터 및 Recommendations을 사용하여 Audience Marketplace에서 타사 데이터 선택](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-+ 대상자 구축 및 관리 {#build-and-manage-audiences}
++ 대상 빌드 및 관리 {#build-and-manage-audiences}
    + 데이터 탐색기 {#data-explorer}
       + [신호 대시보드를 사용하여 사용 가능한 주요 신호 빠르게 보기](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [Data Explorer을 사용하여 사용한 키/값 쌍 검색](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
@@ -86,8 +86,8 @@ ht-degree: 5%
       + [세그먼트 그래프의 숫자 이해](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [고객 팁 - 트레이트 및 세그먼트 우수 사례](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + 알고리즘 모델 {#algorithmic-models}
-      + [이해 [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [구성 및 보고서 설정 [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [이해  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [구성 및 보고서 설정  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [퍼스트 파티 유사 모델 생성](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [알고리즘(유사) 모델의 특성 제외](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [알고리즘(유사) 모델을 사용하여 ROAS 증가](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
@@ -130,7 +130,7 @@ ht-degree: 5%
    + [트레이트 및 세그먼트와 함께 일반 보고서 사용](reports/using-general-reports-with-traits-and-segments.md)
    + [트레이트 및 세그먼트와 함께 트렌드 보고서 사용](reports/using-trended-reports-with-traits-and-segments.md)
 + 기타 통합 {#other-integrations}
-   + Ad Cloud과 통합 {#integrating-with-ad-cloud}
+   + Ad Cloud {#integrating-with-ad-cloud}과 통합
       + [Adobe Advertising Cloud 및 Adobe Audience Manager 통합](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
    + [Adobe I/O에서 API 자격 증명 검색](api/retrieve-api-credentials-in-adobe-io.md)
