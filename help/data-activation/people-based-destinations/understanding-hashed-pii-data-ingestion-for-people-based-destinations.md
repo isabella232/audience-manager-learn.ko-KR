@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 해시된 PII 데이터 수집 이해 [!UICONTROL People-Based Destinations]
+# [!UICONTROL People-Based Destinations]에 대한 해시된 PII 데이터 통합 이해
 
-이 비디오에서는 Audience Manager에 PII를 인제스트할 준비가 되면 고려해야 하는 사항을 다룹니다 [!UICONTROL People-Based Destinations].
+이 비디오에서는 [!UICONTROL People-Based Destinations]에 대한 Audience Manager에 PII를 인제스트할 준비가 되면 고려해야 할 사항을 다룹니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29003/?quality=12)
