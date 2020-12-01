@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 세그먼트 만들기 [!UICONTROL People-Based Destinations]
+# [!UICONTROL People-Based Destinations]에 대한 세그먼트 만들기
 
-이 비디오에서는 사용할 Audience Manager [!UICONTROL segment] 의 생성을 안내합니다 [!UICONTROL People-Based Destinations].
+이 비디오에서는 [!UICONTROL People-Based Destinations]에 사용할 Audience Manager의 [!UICONTROL segment]을 만드는 과정을 안내합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29236/?quality=12)
