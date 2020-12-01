@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 해시된 PII 인제스트 [!UICONTROL People-Based Destinations]
+# [!UICONTROL People-Based Destinations]에 대한 해시된 PII 인제스트
 
-이 비디오에서는 해시된 이메일 주소와 고객 ID(CRM ID)를 연결하기 위해 파일 기반 ID 동기화 형식을 지정하는 방법을 알아봅니다. 이렇게 하면 해시된 이메일 주소를 [!UICONTROL People-Based Destinations]다음과 같이 보낼 수 있습니다 [!DNL Facebook].
+이 비디오에서는 해시된 이메일 주소와 고객 ID(CRM ID)를 연결하기 위해 파일 기반 ID 동기화 형식을 지정하는 방법을 알아봅니다. 이렇게 하면 해시된 이메일 주소를 [!DNL Facebook] 같은 [!UICONTROL People-Based Destinations]으로 보낼 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
