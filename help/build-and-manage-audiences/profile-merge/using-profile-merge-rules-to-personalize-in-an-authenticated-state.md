@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 인증된 상태 [!UICONTROL Profile Merge Rules] 에서 개인화하는 데 사용
+# [!UICONTROL Profile Merge Rules]을 사용하여 인증된 상태에서 개인화
 
 이러한 프로필 병합 규칙 설정을 사용하여 로그인한 고객에게 개인화된 경험을 제공할 수 있습니다.
 
