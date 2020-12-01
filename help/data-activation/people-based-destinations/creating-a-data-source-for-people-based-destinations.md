@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Creating a [!UICONTROL Data Source] for [!UICONTROL People-Based Destinations]
+# [!UICONTROL People-Based Destinations]에 대한 [!UICONTROL Data Source] 만들기
 
-이 비디오에서는 사용할 Audience Manager [!UICONTROL Data Source] 의 생성을 안내합니다 [!UICONTROL People-Based Destinations].
+이 비디오에서는 [!UICONTROL People-Based Destinations]에 사용할 Audience Manager의 [!UICONTROL Data Source]을 만드는 과정을 안내합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)
