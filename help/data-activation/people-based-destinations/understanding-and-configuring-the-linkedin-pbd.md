@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# Understanding and Configuring the [!DNL LinkedIn] [!UICONTROL People-Based Destination]
+# [!DNL LinkedIn] [!UICONTROL People-Based Destination] 이해 및 구성
 
-이 비디오에서는 대상을 만드는 개념과 단계를 설명합니다 [!UICONTROL People-Based Destination][!DNL LinkedIn]. 이 도구는 관련 추가 비디오 및 설명서를 기반으로 구축됩니다 [!UICONTROL People-Based Destinations].
+이 비디오에서는 [!UICONTROL People-Based Destination]을(를) [!DNL LinkedIn]에 만드는 개념과 단계를 안내합니다. 이 구성 요소는 [!UICONTROL People-Based Destinations]에 대한 추가 비디오 및 설명서를 기반으로 만들어집니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-자세한 내용은 [설명서를 참조하십시오](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+자세한 내용은 [설명서](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)를 참조하십시오.
 
-HERE에 대한 추가 비디오를 찾을 수도 [!UICONTROL People-Based Destinations] 있습니다 [](https://adobe.ly/aamlearnpbd).
+[!UICONTROL People-Based Destinations] [HERE](https://adobe.ly/aamlearnpbd)에 대한 추가 비디오를 찾을 수도 있습니다.
