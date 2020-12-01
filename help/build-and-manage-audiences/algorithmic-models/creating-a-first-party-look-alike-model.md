@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# AAM에서 [!UICONTROL First Party] 유사 [!UICONTROL Model] 만들기 {#creating-a-first-party-look-alike-model-in-aam}
+# AAM {#creating-a-first-party-look-alike-model-in-aam}에서 [!UICONTROL First Party] 유사 항목 [!UICONTROL Model] 만들기
 
-이 비디오에서는 유사한 [!UICONTROL first party] 방문자를 더 많이 찾을 수 있도록 유사한 룩을 만드는 [!UICONTROL model]방법을 알아봅니다.
+이 비디오에서는 [!UICONTROL first party] 유사 [!UICONTROL model]을 만드는 방법을 학습하여 전환자와 유사한 방문자를 더 많이 찾을 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23504/?quality=12)
 
