@@ -18,11 +18,11 @@ ht-degree: 31%
 ---
 
 
-# AAM [!UICONTROL Segments] 향상 [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}로 AAM [!UICONTROL Segments] 향상
 
-를 [!DNL Trait Recommendations]사용하면 [!UICONTROL segment] 에서 [!DNL Segment Builder]를 만들거나 편집할 때 규칙 [!UICONTROL traits] 과 유사한 추가 권장 사항 [!UICONTROL traits] 을 추가할 수 [!UICONTROL segment] 있습니다.
+[!DNL Trait Recommendations]을 사용하면 [!DNL Segment Builder]에서 [!UICONTROL segment]을(를) 빌드하거나 편집할 때 [!UICONTROL segment] 규칙의 [!UICONTROL traits]과 유사한 추가 [!UICONTROL traits]에 대한 권장 사항을 얻을 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!DNL Trait Recommendations] 추가적인 권장 사항을 포함하고 타겟 고객 [!UICONTROL first party] [!UICONTROL third party] [!UICONTROL traits] 을 늘릴 수 있도록 데이터 및 두 데이터 모두에서 작업할 수 있습니다.\
-이 기능에 대한 자세한 내용은 [설명서를 참조하십시오](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
+[!DNL Trait Recommendations] 추가적인 권장 사항을 포함하고 타겟 고객 [!UICONTROL first party] 을 늘릴 수 있도록  [!UICONTROL third party] 데이터 [!UICONTROL traits] 와 데이터 모두에서 작업할 수 있습니다.\
+이 기능에 대한 자세한 내용은 [설명서](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html)를 참조하십시오.
