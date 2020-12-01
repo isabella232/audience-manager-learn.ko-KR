@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 고객 팁 - 프로필 병합 규칙 활용
 
-**Accordant의 멀티 솔루션 컨설턴트인 Varun Kalra**&#x200B;는 **PMR(Profile Merge Rules)**&#x200B;선택 및 사용에 대한 팁을 제공합니다.
+**Accordant의 멀티 솔루션 컨설턴트인 Varun Kalra**&#x200B;는  **PMR(Profile Merge Rules)** 선택 및 사용에 대한 팁을 제공합니다.
 
 Varun Kalra는 시드니 기반의 Adobe 솔루션 파트너에서 근무하는 멀티 솔루션 컨설턴트입니다. Varun은 주로 데이터 검색, 구현, 지원 및 활성화가 포함된 Audience Manager, Adobe Analytics 및 AEP 프로젝트에서 작업합니다. 팁에는 다음과 같은 항목이 포함됩니다.
 
