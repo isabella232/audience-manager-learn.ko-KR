@@ -17,10 +17,10 @@ ht-degree: 0%
 ---
 
 
-# 필터 및 Recommendations을 사용하여 데이터 [!UICONTROL Third Party] 를 [!UICONTROL Audience Marketplace]
+# 필터 및 Recommendations을 사용하여 [!UICONTROL Audience Marketplace]에서 [!UICONTROL Third Party] 데이터 선택
 
-이 비디오는 필요에 따라 적합한 [!UICONTROL Audience Marketplace] [!UICONTROL third party] 데이터 제공자를 선택하는 데 도움이 되는 필터 및 권장 사항 옵션을 안내합니다.
+이 비디오는 필요에 따라 올바른 [!UICONTROL third party] 데이터 공급자를 선택하는 데 도움이 되도록 [!UICONTROL Audience Marketplace]의 필터 및 권장 사항 옵션을 안내합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
-자세한 내용은 [설명서를 참조하십시오](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html).
+자세한 내용은 [설명서](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html)를 참조하십시오.
