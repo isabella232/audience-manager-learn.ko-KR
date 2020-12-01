@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Adobe Advertising Cloud 및 Adobe Audience Manager 통합 {#adobe-advertising-cloud-and-adobe-audience-manager-integration}
 
-Adobe Audience Manager과의 통합이 어떻게 [!DNL Adobe Ad Cloud] 작동하는지 살펴보십시오. 또한 일치 비율과 [!UICONTROL third party] 쿠키 싱크에 대한 답변을 얻을 수 있습니다.
+Adobe Audience Manager과 [!DNL Adobe Ad Cloud] 간의 통합이 어떻게 작동하는지 알아봅니다. 일치 비율과 [!UICONTROL third party] 쿠키 싱크에 대한 답변도 확인할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)
