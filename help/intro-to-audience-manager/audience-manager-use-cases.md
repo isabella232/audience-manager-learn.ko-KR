@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33975/?quality=12)
 
-자세한 내용은 [설명서를 참조하십시오](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html).
+자세한 내용은 [설명서](https://docs.adobe.com/content/help/en/audience-manager/user-guide/aam-home.html)를 참조하십시오.
