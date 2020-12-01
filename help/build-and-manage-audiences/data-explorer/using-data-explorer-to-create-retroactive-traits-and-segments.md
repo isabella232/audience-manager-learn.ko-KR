@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# Using [!DNL Data Explorer] to Create Reflective [!UICONTROL Traits] 및 [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
+# [!DNL Data Explorer]을(를) 사용하여 소급 [!UICONTROL Traits] 및 [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments} 만들기
 
-이 비디오에서는 데이터를 만들기 전 [!UICONTROL traits]의 데이터 [!UICONTROL traits] 를 소급 [!UICONTROL trait] 채우는 방법을 보여 줍니다. 이것은 여러분의 [!UICONTROL trait] 창작에서 큰 돌파구입니다!
+이 비디오에서는 소급 [!UICONTROL traits]을(를) 생성하는 방법을 보여 줍니다.[!UICONTROL traits] 데이터를 만들기 전에 [!UICONTROL trait]로 데이터를 채우는 것입니다. 이 기능은 [!UICONTROL trait] 제작에서 혁신적인 기능입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
-지금까지 사용자가 만든 데이터는 앞으로 [!UICONTROL traits]이동하는 데이터만 수집했습니다. 이것은 우리가 그들이 교통과 데이터를 그들에게 받은 &quot;만일의 경우&quot;를 많이 [!UICONTROL traits] 만들어야 한다는 것을 의미했다. 이제 데이터를 받는 키/값 쌍을 확인할 때까지 기다렸다가 데이터를 만들고 다시 [!UICONTROL trait] 채울 수 있습니다 [!UICONTROL trait]. 따라서 시간과 에너지를 절약하고 [!UICONTROL trait] 분류법을 강화하는 데 도움이 되며, 데이터에는 전혀 [!UICONTROL traits] 포함되지 않은 데이터가 포함되어 있지 않습니다.
+지금까지 [!UICONTROL traits]을(를) 만들면 앞으로 이동하는 데이터만 수집했습니다. 이것은 많은 [!UICONTROL traits] &quot;만일의 경우&quot;를 만들어야 한다는 것을 의미했습니다. 이제 데이터를 받는 키/값 쌍을 볼 때까지 기다렸다가 [!UICONTROL trait]을 만들고 데이터를 [!UICONTROL trait]에 다시 입력할 수 있습니다. 이렇게 하면 시간과 에너지를 절약할 수 있고, 데이터가 없는 [!UICONTROL traits] 분류법을 사용하는 대신 [!UICONTROL trait] 분류 체계를 더욱 긴밀하게 유지할 수 있습니다.
 
-자세한 내용 [!DNL Data Explorer]은 [설명서를 참조하십시오](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+[!DNL Data Explorer]에 대한 자세한 내용은 [documentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)을 방문하십시오.
