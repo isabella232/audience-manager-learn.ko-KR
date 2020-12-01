@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 간단한 만들기 및 사용 [!UICONTROL Profile Merge Rules]
+# 단순 [!UICONTROL Profile Merge Rules] 만들기 및 사용
 
 프로필 병합 규칙 및 세그먼트에 지정하는 방법에 대해 알아봅니다. 기본 &quot;현재 장치&quot; 프로파일과 사용 가능/사용해야 하는 시기에 대해 알아보십시오.
 
