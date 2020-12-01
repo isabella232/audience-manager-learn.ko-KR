@@ -18,10 +18,10 @@ ht-degree: 0%
 ---
 
 
-# 편리한 [!DNL Data Explorer] 재사용을 위해 검색 저장 {#saving-searches-in-data-explorer-for-convenience-in-re-use}
+# [!DNL Data Explorer]에 검색을 저장하여 다시 사용할 때 편의성{#saving-searches-in-data-explorer-for-convenience-in-re-use}
 
-이 비디오에서는 검색을 구성하고 실행한 다음 나중에 다시 사용하기 위해 저장하는 방법을 [!DNL Data Explorer]알아봅니다. 대시보드에 저장된 검색을 배치하여 앱에 들어갈 때 즉시 사용할 수 있도록 할 수도 [!UICONTROL Signals] 있습니다.
+이 비디오에서는 [!DNL Data Explorer]에서 검색을 구성하고 실행한 다음 저장하여 나중에 다시 사용하는 방법을 알아봅니다. 또한 저장된 검색을 대시보드에 배치하여 [!UICONTROL Signals] 앱으로 이동할 때 즉시 사용할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25147/?quality=12)
 
-자세한 내용 [!DNL Data Explorer]은 [설명서를 참조하십시오](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+[!DNL Data Explorer]에 대한 자세한 내용은 [documentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html)을 방문하십시오.
