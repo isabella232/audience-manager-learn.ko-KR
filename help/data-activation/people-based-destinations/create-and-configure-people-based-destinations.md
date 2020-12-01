@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 만들기 및 구성 [!UICONTROL People-based Destinations]
+# [!UICONTROL People-based Destinations] 만들기 및 구성
 
-이 비디오에서는 먼저 사전 요구 사항을 만드는 데 필요한 몇 가지 정보 [!DNL People-Based Destination]를 제공한 다음 파트너 [!UICONTROL Integrated Account] (예: 링크)를 구성하는 방법도 보여 줍니다. [!DNL Facebook]). 그런 다음 제품 내의 설정을 [!UICONTROL destination] 안내합니다.
+이 비디오에서는 먼저 [!DNL People-Based Destination]을(를) 만들기 위한 사전 요구 사항에 대한 정보를 제공한 다음, [!UICONTROL Integrated Account] 구성 방법을 보여 줍니다(파트너 연결(예:[!DNL Facebook]). 그런 다음 [!UICONTROL destination] 자체의 제품 내 설정을 안내합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
