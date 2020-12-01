@@ -18,25 +18,25 @@ ht-degree: 12%
 
 # 개요
 
-Audience Manager Tutorials 사이트에 오신 것을 환영합니다.  이 자습서를 [설명서와](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 함께 사용하면 Adobe의 동급 최강의 기술을 사용하여 모든 채널 또는 디바이스에서 대상을 만들고 활성화하는 방법을 보다 잘 이해할 수 있습니다 [!DNL data management platform].
+Audience Manager Tutorials 사이트에 오신 것을 환영합니다.  이러한 자습서를 [documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html)과 함께 사용하면 Adobe의 동급 최강의 [!DNL data management platform]를 사용하여 모든 채널 또는 장치에서 대상을 만들고 활성화하는 방법을 보다 잘 이해할 수 있습니다.
 
-* **직원 선택** 시 Adobe에서 가장 선호하는 컨텐츠 중 일부를 강조 표시
+* **직원** Pickshilight가 자주 사용하는 콘텐츠 중 일부
 * **왼쪽 탐색** 영역에서 주제 및 하위 주제별로 컨텐츠를 탐색할 수 있습니다
 * 찾고 있는 내용을 알고 있는 경우 페이지 상단에 있는 **검색** 필드를 사용합니다
 
 ## 새로운 기능
 
-* **[개요 [!UICONTROL Profile Merge Rules] (비디오)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
+* **[개요  [!UICONTROL Profile Merge Rules] (비디오)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   *마케터의 가치 [!UICONTROL Profile Merge Rules] 를 파악하고 작업 방식을 파악합니다.*
+   *마케터 [!UICONTROL Profile Merge Rules] 에 대한 가치, 작업 방식 등을 파악할 수 있습니다.*
 
 * **[[!UICONTROL Profile Merge Rule]예제 및 사용 사례](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   *이 비디오에서는 다양한 사례 [!UICONTROL Profile Merge Rules] 와 그 의미뿐만 아니라 이 비디오에 대해 [!UICONTROL Profile Merge Rules] 해결할 수 있는 사용 사례를 볼 수 있습니다.*
+   *이 비디오에서는 그 예와 그 의미 [!UICONTROL Profile Merge Rules] 를 볼 수 있을 뿐만 아니라  [!UICONTROL Profile Merge Rules] 해결되는 사용 사례를 볼 수 있습니다.*
 
 * **[만들기 및 구성[!UICONTROL People-Based Destinations]](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   *Audience Manager UI에서 설정 방법 [!DNL People-Based Destination] 을 알아봅니다.*
+   *Audience Manager UI [!DNL People-Based Destination] 에서 설정 방법 알아보기*
 
 ## 직원 선택
 
