@@ -24,4 +24,4 @@ Audience Manager에서 세그먼트를 만들려면 UI의 필드를 살펴보십
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 
-세그먼트에 대한 자세한 내용은 [설명서를 참조하십시오](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segments-purpose.html).
+세그먼트에 대한 자세한 내용은 [설명서](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segments-purpose.html)를 참조하십시오.
