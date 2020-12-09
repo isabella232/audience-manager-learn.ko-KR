@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 자습서
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: af695bf5ffdb5abb16292f9de4682c132c55250b
+source-git-commit: 6e933376127eb1e5fdb2e28c4761e2423f1f9813
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '733'
 ht-degree: 5%
 
 ---
@@ -28,6 +28,8 @@ ht-degree: 5%
 + 설정 및 관리 {#setup-and-admin}
    + 데이터 소스 {#data-sources}
       + [분석 데이터에 대한 데이터 소스 만들기](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+   + 사용자 관리{#user-management}를 참조하십시오.
+      + [역할 기반 액세스 제어를 사용하여 권한 설정](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + 데이터 거버넌스 및 개인 정보 {#data-governance-and-privacy}
       + [전역 장치 ID 유효성 검사](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [IAB TCF 2.0 지원](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
