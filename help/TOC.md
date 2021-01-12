@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 자습서
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 468ebd3e9056e946b3b54c9e312214558fb881b8
+source-git-commit: cfd8290b82fd877ea582400291184f9897be92a3
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '765'
 ht-degree: 5%
 
 ---
@@ -114,6 +114,7 @@ ht-degree: 5%
       + [Audience Manager 대상 유형 이해](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [일치 비율 이해](data-activation/destinations-basics/understanding-match-rates.md)
       + [일치 비율 인터페이스 이해](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
+      + [데이터 내보내기 레이블을 사용하여 데이터 흐름 제어](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [Audience Lab을 사용하여 DSP 선택](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
       + [전환 트레이트 만들기](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
@@ -132,6 +133,8 @@ ht-degree: 5%
 + 보고서 {#reports}
    + [트레이트 및 세그먼트와 함께 일반 보고서 사용](reports/using-general-reports-with-traits-and-segments.md)
    + [트레이트 및 세그먼트와 함께 트렌드 보고서 사용](reports/using-trended-reports-with-traits-and-segments.md)
+   + [중복 보고서를 사용하여 관련 대상 이해](reports/understand-related-audiences-with-overlap-reports.md)
+   + [Audience Optimization 보고서를 사용하여 미디어 성능 이해](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 기타 통합 {#other-integrations}
    + Ad Cloud {#integrating-with-ad-cloud}과 통합
       + [Adobe Advertising Cloud 및 Adobe Audience Manager 통합](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
