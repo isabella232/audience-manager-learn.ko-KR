@@ -5,10 +5,10 @@ breadcrumb-title: Audience Manager 자습서
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 18b3c68cbb1c00abe087ea0deaa940c67d7ebb97
+source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
 workflow-type: tm+mt
-source-wordcount: '773'
-ht-degree: 5%
+source-wordcount: '781'
+ht-degree: 4%
 
 ---
 
@@ -83,6 +83,7 @@ ht-degree: 5%
       + [세그먼트 빌더의 특성 권장 사항 개선 사항](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
       + [세그먼트에서 최근 및 빈도 사용](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
       + [세그먼트를 작성할 때 코드 보기 사용](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
+      + [Adobe Analytics의 세그먼트를 Audience Manager으로 가져오기](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [고객에게 광고를 표시하지 않도록 하는 세그먼트 만들기](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
       + [대상에 Audience Manager 세그먼트 매핑](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [세그먼트를 장치 기반 대상에 매핑](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
