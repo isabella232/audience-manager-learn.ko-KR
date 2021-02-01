@@ -1,15 +1,16 @@
 ---
 title: Audience Manager 대상 유형 이해
-description: 이 비디오에서는 Adobe Audience Manager의 다양한 유형의 대상을 안내하고 각 대상을 언제 사용하는지 예를 제공합니다.
+description: 이 비디오에서는 Adobe Audience Manager의 다양한 유형의 대상을 소개하고 각 대상을 언제 사용할지를 예시합니다.
 feature: destination basics
 topics: null
 audience: all
 activity: understand
 doc-type: presentation
 team: Technical Marketing
+thumbnail: 29839.jpg
 kt: 4016
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # Audience Manager [!UICONTROL Destination] 유형 이해
 
-이 비디오에서는 Adobe Audience Manager에 있는 다양한 유형의 [!UICONTROL destinations]을 소개하고 각 항목을 언제 사용할지를 예시합니다.
+이 비디오에서는 Adobe Audience Manager의 서로 다른 유형의 [!UICONTROL destinations]을 소개하고 각 항목을 언제 사용할지를 보여줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
