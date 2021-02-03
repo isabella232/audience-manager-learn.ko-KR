@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 자습서
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
+source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '802'
 ht-degree: 4%
 
 ---
@@ -28,6 +28,7 @@ ht-degree: 4%
 + 설정 및 관리 {#setup-and-admin}
    + 데이터 소스 {#data-sources}
       + [분석 데이터에 대한 데이터 소스 만들기](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
+      + [장치 간 데이터 소스 만들기 및 인증](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
    + 사용자 관리{#user-management}를 참조하십시오.
       + [역할 기반 액세스 제어를 사용하여 권한 설정](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + 데이터 거버넌스 및 개인 정보 {#data-governance-and-privacy}
@@ -46,6 +47,9 @@ ht-degree: 4%
    + [태그 관리자를 사용하여 Audience Manager 구현](web-implementation/using-tag-managers-to-implement-audience-manager.md)
    + [파트너 ID 또는 하위 도메인을 식별하는 방법](web-implementation/how-to-identify-your-partner-id-or-subdomain.md)
    + [SPA 페이지의 우수 사례 사용](web-implementation/using-best-practices-on-spa-pages-when-sending-data-to-aam.md)
++ 오프라인 데이터 통합 {#integrating-offline-data}
+   + [파일 기반 데이터 서식 지정 및 인제스트](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
+   + [파일 기반 데이터 인제스트 단계](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + 모바일 구현 {#mobile-implementation}
    + [iOS Swift 앱에서 구현](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
    + [iOS Objective-C 앱에서 구현](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
