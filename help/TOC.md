@@ -1,13 +1,13 @@
 ---
-user-guide-title: Adobe Audience Manager 자습서
-user-guide-description: Adobe Analytics를 위한 비디오 및 자습서 모음입니다.
+user-guide-title: Adobe Audience Manager 튜토리얼
+user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Audience Manager 자습서
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
+source-git-commit: 68e5ab7aec35619af29ed075bef872d9db2da178
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '849'
 ht-degree: 4%
 
 ---
@@ -59,6 +59,8 @@ ht-degree: 4%
       + [세그먼트 수준에서 Audience Marketplace의 2차 및 3차 데이터 사용 보고](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Audience Marketplace에 데이터 사용량 일괄 업로드](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [필터 및 Recommendations을 사용하여 Audience Marketplace에서 타사 데이터 선택](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+   + 판매 데이터 {#selling-data}
+      + [Marketplace에서 자사 고객을 상업화](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + 대상 만들기 및 관리 {#build-and-manage-audiences}
    + 데이터 탐색기 {#data-explorer}
       + [신호 대시보드를 사용하여 사용 가능한 주요 신호를 빠르게 보기](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
@@ -142,6 +144,10 @@ ht-degree: 4%
    + [중복 보고서를 사용하여 관련 대상 이해](reports/understand-related-audiences-with-overlap-reports.md)
    + [Audience Optimization 보고서를 사용하여 미디어 성능 이해](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 기타 통합 {#other-integrations}
+   + 실시간 고객 데이터 플랫폼과 통합 {#integrating-with-rtcdp}
+      + [Adobe Audience Manager 데이터 커넥터를 사용하여 데이터 인제스트](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [실시간 CDP를 통한 1차 데이터 통합 이해](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
+      + [실시간 CDP를 통한 웹 데이터 통합 이해](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
    + Ad Cloud {#integrating-with-ad-cloud}과 통합
       + [Adobe Advertising Cloud 및 Adobe Audience Manager 통합](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
