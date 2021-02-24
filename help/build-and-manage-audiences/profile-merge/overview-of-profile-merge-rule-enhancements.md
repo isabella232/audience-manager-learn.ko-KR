@@ -1,17 +1,18 @@
 ---
 title: 프로필 병합 규칙 개선 사항 개요
 description: 이 비디오에서는 2019년 10월에 릴리스된 프로필 병합 규칙의 개선 사항에 대해 설명합니다.
-feature: profile merge
+feature: 프로필 병합
 topics: null
 audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 28976.jpg
 kt: 3710
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '32'
 ht-degree: 0%
 
 ---
