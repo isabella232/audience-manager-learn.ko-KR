@@ -1,17 +1,18 @@
 ---
 title: Audience Manager의 [!UICONTROL Predictive Audiences]에 대한 구성 및 보고
 description: 이 비디오에서는 Audience Manager 인터페이스의 [!UICONTROL Predictive Audiences] 구성을 살펴봅니다. 모델의 결과를 보여주는 보고서도 볼 수 있습니다.
-feature: algorithmic models
+feature: 알고리즘 모델
 topics: null
 audience: administrator
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 33630.jpg
 kt: 4390
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
