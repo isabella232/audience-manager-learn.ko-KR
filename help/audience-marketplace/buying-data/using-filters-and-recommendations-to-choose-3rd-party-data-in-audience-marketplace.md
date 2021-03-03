@@ -1,19 +1,20 @@
 ---
 title: 필터 및 Recommendations을 사용하여 Audience Marketplace에서 제3자 데이터 선택
 description: 이 비디오는 필요에 따라 올바른 제3자 데이터 공급자를 선택하는 데 도움이 되도록 Audience Marketplace의 필터 및 권장 사항을 안내합니다.
-feature: audience marketplace
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29370.jpg
 kt: 3938
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
