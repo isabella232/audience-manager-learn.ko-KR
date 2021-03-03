@@ -1,18 +1,19 @@
 ---
 title: 세그먼트 수준에서 Audience Marketplace의 2차 및 3차 데이터 사용 보고
 description: 이 비디오는 Audience Marketplace UI의 Payables 섹션 내에서 데이터 사용을 보고하는 새로운 방법을 보여줍니다. 피드 수준 보고의 기존 프로세스 외에도 이제 월별 노출 수를 세그먼트 수준에서 제출할 수 있으므로 비용 속성을 위해 오프라인 계산을 수행할 필요가 없습니다.
-feature: audience marketplace
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25522.jpg
 kt: 1758
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 중간
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
