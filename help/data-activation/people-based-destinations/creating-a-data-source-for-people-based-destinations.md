@@ -1,18 +1,19 @@
 ---
 title: 사람 기반 대상에 대한 데이터 소스 만들기
 description: 이 비디오에서는 사용자 기반 대상에 사용할 Audience Manager에서 데이터 소스를 만드는 과정을 안내합니다.
-feature: people-based destinations
+feature: '"사람 기반 대상"'
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29006.jpg
 kt: 3700
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
