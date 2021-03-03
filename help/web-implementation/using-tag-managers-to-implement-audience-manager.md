@@ -1,17 +1,18 @@
 ---
 title: 태그 관리자를 사용하여 Audience Manager 구현
-description: 이 비디오에서는 태그 관리 솔루션을 사용할 때 Adobe Audience Manager을 구현하는 기본 사항에 대해 알아봅니다.
-feature: implementation basics
+description: 이 비디오에서는 태그 관리 솔루션을 사용할 때 Adobe Audience Manager을 구현하는 기본 사항을 알아봅니다.
+feature: 구현 기본 사항
 topics: null
-audience: implementer, developer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4051
+role: '"개발자, 데이터 엔지니어"'
+level: 중간
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # 태그 관리자를 사용하여 Audience Manager 구현
 
-이 비디오에서는 태그 관리 솔루션을 사용할 때 Adobe Audience Manager을 구현하는 기본 사항에 대해 알아봅니다.
+이 비디오에서는 태그 관리 솔루션을 사용할 때 Adobe Audience Manager을 구현하는 기본 사항을 알아봅니다.
 
 강조 표시된 사용 사례는 다음과 같습니다.
 
