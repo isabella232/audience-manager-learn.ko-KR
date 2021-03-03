@@ -3,16 +3,17 @@ title: Marketplace에서 자사 고객을 상업화
 description: 이 비디오에서는 데이터를 Audience Marketplace의 개인 또는 공개 데이터 피드로 설정하여 2차 또는 3차 데이터의 데이터 공급자로 만드는 방법을 알아봅니다.
 feature: Audience Marketplace
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331721.jpg
 kt: 6802
+role: 비즈니스 전문가
+level: 경험
 translation-type: tm+mt
-source-git-commit: 3d4e02bf43874c35f508a5b204775c0a3ceee21b
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '83'
 ht-degree: 2%
 
 ---
