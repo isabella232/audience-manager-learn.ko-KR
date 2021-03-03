@@ -3,16 +3,18 @@ title: Audience Manager 사용자를 위한 실시간 CDP의 세그먼트 이해
 description: Audience Manager에서 실시간 고객 데이터 플랫폼으로 이동하면 개념 간의 차이점을 이해하는데 도움이 됩니다. 이 비디오에서는 Audience Manager과 실시간 CDP 간 세그먼트 생성 및 세그먼트 생성 간의 차이점을 살펴봅니다.
 feature: 플랫폼 통합
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331901.jpg
 kt: 7205
+topic: 통합
+role: 비즈니스 전문가
+level: 중간
 translation-type: tm+mt
-source-git-commit: 4f6c2ac49e0b05438e040e73963f7ebb5b02fcc0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '198'
 ht-degree: 1%
 
 ---
