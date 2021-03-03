@@ -4,16 +4,17 @@ description: 이 비디오에서는 AAM에서 Adobe Analytics과 같은 분석 �
 landing-page-description: Adobe Analytics과 같은 분석 솔루션에서 실시간으로 들어오는 데이터에 대한 데이터 소스를 만드는 방법을 알아봅니다. 분석 데이터에 대한 트레이트를 만들기 전에 이 작업을 수행하십시오.
 feature: 데이터 소스
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
 translation-type: tm+mt
-source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 49%
+source-wordcount: '162'
+ht-degree: 47%
 
 ---
 
