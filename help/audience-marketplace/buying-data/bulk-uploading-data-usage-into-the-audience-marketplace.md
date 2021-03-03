@@ -1,18 +1,19 @@
 ---
 title: Audience Marketplace에 데이터 사용량 일괄 업로드
 description: 'Audience Marketplace에서 제2자 및 제3자 데이터 사용을 보고할 때 수동으로 하지 않으려는 항목이 충분할 수 있습니다. 이 비디오에서는 업데이트할 항목이 많더라도 데이터 사용량을 쉽게 보고할 수 있도록 데이터 사용량 보고 일괄 업로드 도구를 사용하는 방법을 알아봅니다. '
-feature: audience marketplace
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25521.jpg
 kt: 1782
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 중간
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
