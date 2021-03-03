@@ -1,18 +1,19 @@
 ---
 title: LinkedIn 사람 기반 대상 이해 및 구성
 description: 이 비디오에서는 LinkedIn에 대한 사람 기반 대상을 만드는 개념과 단계를 안내합니다. 사람 기반 대상과 관련된 추가 비디오 및 문서를 기반으로 합니다.
-feature: people-based destinations
+feature: '"사람 기반 대상"'
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
