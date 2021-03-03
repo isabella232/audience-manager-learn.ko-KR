@@ -3,16 +3,17 @@ title: 프로필 병합 규칙 개선 사항이 세그멘테이션, 활성화 �
 description: 프로필 병합 규칙 개선 사항이 Audience Manager UI의 총 트레이트 및 세그먼트 모집단에 어떤 영향을 주는지 이해합니다
 feature: 프로필 병합
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28972.jpg
 kt: 3693
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 중간
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
