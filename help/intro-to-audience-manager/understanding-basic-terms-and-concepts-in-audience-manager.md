@@ -4,17 +4,18 @@ description: 이 비디오에서는 신호, 특성, 세그먼트 등 Audience Ma
 landing-page-description: 신호, 트레이트, 세그먼트 등 Audience Manager에서 시작할 수 있는 기본 용어와 개념을 학습합니다.
 feature: 개요
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5037
 thumbnail: 33887.jpg
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
 translation-type: tm+mt
-source-git-commit: 2d159b6fc09f8ada22b94529af4d806839ce9979
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 82%
+source-wordcount: '101'
+ht-degree: 73%
 
 ---
 
