@@ -1,18 +1,19 @@
 ---
 title: Audience Lab을 사용하여 DSP 선택
 description: 이 비디오에서는 A/B를 테스트하여 DSP 또는 기타 AAM 대상을 테스트하여 광고 지출에 대한 수익률을 높일 수 있도록 Audience Lab 테스트 만들기를 안내합니다.
-feature: audience lab
+feature: Audience Lab
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24923.jpg
 kt: 1552
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 중간
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
