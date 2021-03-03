@@ -1,18 +1,19 @@
 ---
 title: 'Data Explorer을 사용하여 온보드 데이터에 대한 트레이트 생성 유효성 확인 '
 description: Audience Manager의 가장 강력한 기능 중 하나는 오프라인 데이터를 통합하여 온라인 데이터와 연계하는 기능입니다. 이 비디오에서는 Data Explorer을 사용하여 이 온보드 데이터를 활용하는 데 필요한 모든 트레이트를 만들었는지 확인하는 방법을 알아봅니다.
-feature: data explorer
+feature: 데이터 탐색기
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
