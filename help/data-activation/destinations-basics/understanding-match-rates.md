@@ -1,19 +1,20 @@
 ---
 title: 일치 비율 이해
 description: 이 비디오는 Adobe Audience Manager의 일치 비율, 항목 및 계산 방법을 이해하는 데 도움이 됩니다. 또한 일부 모범 사례뿐만 아니라 낮은 일치 비율을 유발할 수 있는 방법도 알아봅니다.
-feature: match rates
+feature: 일치율
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Experience League
 thumbnail: 29830.jpg
 kt: 4033
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 1%
 
 ---
 
