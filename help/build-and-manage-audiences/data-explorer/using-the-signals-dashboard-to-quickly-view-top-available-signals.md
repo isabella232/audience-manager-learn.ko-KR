@@ -1,19 +1,20 @@
 ---
 title: 신호 대시보드를 사용하여 사용 가능한 주요 신호를 빠르게 보기
 description: Data Explorer의 신호 대시보드에 내장된 표와 사용자 정의 표를 사용하면 Audience Manager에 들어오는 최신 데이터를 빠르게 확인하고 필요에 따라 트레이트를 만들 수 있습니다. 새롭고 보다 효율적인 워크플로우를 소개합니다!
-feature: data explorer
+feature: 데이터 탐색기
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 1%
 
 ---
 
