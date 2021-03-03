@@ -1,19 +1,20 @@
 ---
 title: Adobe Analytics에서 오는 신호를 사용하여 Data Explorer 사용
 description: 이 비디오에서는 사용 및 사용하지 않는 신호 검색, Analytics 트레이트 만들기, 데이터 이해 등 Data Explorer에서 Adobe Analytics 데이터를 검색하고 사용하는 방법을 보여 줍니다.
-feature: data explorer
+feature: 데이터 탐색기
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25150.jpg
 kt: 2142
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
