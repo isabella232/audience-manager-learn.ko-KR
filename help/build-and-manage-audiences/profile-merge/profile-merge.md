@@ -1,25 +1,26 @@
 ---
 title: 프로필 병합 비디오 및 Tutorials
 description: 이 섹션에는 프로필 병합 규칙과 같은 프로필 병합 기능에 대한 비디오와 자습서가 포함되어 있습니다.
-feature: profile merge
+feature: 프로필 병합
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 중간
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 
-# [!UICONTROL Profile Merge] - 비디오 및 Tutorials
+# [!UICONTROL Profile Merge] - 동영상 및 Tutorials
 
-[!UICONTROL Profile Merge Rules]에서는 [!UICONTROL segmentation]에 사용되는 데이터 세트를 제어하고 여러 장치에서 사람을 정확하게 타깃팅할 수 있습니다.
+[!UICONTROL Profile Merge Rules]을 사용하면 [!UICONTROL segmentation]에 사용되는 데이터 세트를 제어할 수 있고 여러 장치에서 사람을 정확하게 타깃팅할 수 있습니다.
 
 이 섹션에는 [!UICONTROL Profile Merge Rules]에 대한 다음 비디오가 포함되어 있습니다.
 
@@ -30,8 +31,8 @@ ht-degree: 0%
 * [프로필 병합 규칙을 사용하여 인증된 상태에서 개인화](using-profile-merge-rules-to-personalize-in-an-authenticated-state.md)
 * [장치 확장 및 도달 증가에 대한 프로필 병합 규칙 사용](using-profile-merge-rules-for-device-extension-and-increased-reach.md)
 * [프로필 병합 규칙 개선 - 전제 조건](profile-merge-rule-enhancements-pre-requisites.md)
-* [프로필 병합 규칙 개선 사항이 세그먼테이션, 활성화 및 보고에 미치는 영향](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
-* [대상 ID 보고 해석](interpret-audience-identity-reporting.md)
+* [프로필 병합 규칙 개선 사항이 세그멘테이션, 활성화 및 보고에 미치는 영향](how-profile-merge-rule-enhancements-impact-segmentation-activation-and-reporting.md)
+* [대상자 ID 보고 해석](interpret-audience-identity-reporting.md)
 * [Audience Manager의 장치 간 지표 이해](understanding-cross-device-metrics-in-audience-manager.md)
 
-이러한 비디오는 [documentation](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)과 함께 사용할 수 있습니다.
+이러한 비디오는 [설명서](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)와 함께 사용할 수 있습니다.
