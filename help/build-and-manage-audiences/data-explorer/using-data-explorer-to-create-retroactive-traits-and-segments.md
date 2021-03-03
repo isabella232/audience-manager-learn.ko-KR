@@ -1,19 +1,20 @@
 ---
 title: Data Explorer을 사용하여 소급 트레이트 및 세그먼트 생성
 description: 이 비디오에서는 데이터를 만들기 전의 트레이트로 채우는 트레이트와 같은 소급 트레이트를 생성하는 방법을 보여줍니다. 이것은 여러분의 특징 창조에서 큰 돌파구입니다!
-feature: data explorer
+feature: 데이터 탐색기
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
