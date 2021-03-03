@@ -1,25 +1,26 @@
 ---
-title: BAAAM(벌크 관리) 소개
-description: 일반적으로 "BAAAM"이라고 하는 Audience Manager 벌크 관리 도구에 대해 알아봅니다. REST API를 통해 트레이트와 세그먼트를 만들고, 편집하고, 삭제할 수 있도록 인증하는 방법을 확인하십시오.
-feature: baaam
+title: 벌크 관리(BAAAM) 소개
+description: 일반적으로 "BAAAM"이라고 하는 Audience Manager 벌크 관리 도구에 대해 알아봅니다. REST API를 통해 트레이트와 세그먼트를 만들고, 편집하고, 삭제할 수 있도록 BAAAM 시트를 사용할 수 있도록 인증하는 방법을 확인하십시오.
+feature: BAAAM
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327692.jpg
 kt: 6050
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 1%
 
 ---
 
 
-# BAAAM(벌크 관리) 소개
+# 벌크 관리(BAAAM) 소개
 
-일반적으로 &quot;BAAAM&quot;이라고 하는 Audience Manager [!UICONTROL Bulk Management] 도구에 대해 알아봅니다. REST API를 통해 트레이트와 세그먼트를 만들고, 편집하고, 삭제할 수 있도록 인증하는 방법을 확인하십시오.
+일반적으로 &quot;BAAAM&quot;이라고 하는 Audience Manager [!UICONTROL Bulk Management] 도구에 대해 알아봅니다. REST API를 통해 트레이트와 세그먼트를 만들고, 편집하고, 삭제할 수 있도록 BAAAM 시트를 사용할 수 있도록 인증하는 방법을 확인하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327692/?quality=12&learn=on)
