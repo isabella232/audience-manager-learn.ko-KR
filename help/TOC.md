@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 자습서
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: d211642f7d75f406e2c0fc12b9f82f4cea311be9
+source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '877'
 ht-degree: 4%
 
 ---
@@ -150,7 +150,9 @@ ht-degree: 4%
       + [실시간 CDP를 통한 웹 데이터 통합 이해](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [실시간 CDP에서 스키마 및 XDM 이해](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
       + [실시간 CDP의 특징 이해](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
+      + [실시간 CDP의 신호 이해](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
       + [실시간 CDP에서 세그먼트 이해](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
+      + [실시간 CDP의 액세스 제어 이해](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
    + Ad Cloud {#integrating-with-ad-cloud}과 통합
       + [Adobe Advertising Cloud 및 Adobe Audience Manager 통합](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
