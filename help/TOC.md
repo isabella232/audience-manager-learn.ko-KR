@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 자습서
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: d53ef772f62f917e3823c0c133999e9384183ee8
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '904'
 ht-degree: 4%
 
 ---
@@ -25,6 +25,10 @@ ht-degree: 4%
    + [Audience Manager의 ID 소개](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + 값 실현 {#value-realization}
       + [고객 제한 사용 사례에서 ROI 측정](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
++ 업계 뉴스 및 동향 {#industry}
+   + [데이터 관리의 미래와 변화하는 환경](industry/the-future-of-data-management-and-the-changing-environment.md)
+   + [고객 데이터 관리를 위한 10가지 고려 사항](industry/ten-considerations-for-responsible-customer-data-management.md)
+   + [브랜드와 소비자 사이의 두 가지 인식 이야기](industry/brands-vs-consumers.md)
 + 설정 및 관리 {#setup-and-admin}
    + 데이터 소스 {#data-sources}
       + [분석 데이터에 대한 데이터 소스 만들기](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
