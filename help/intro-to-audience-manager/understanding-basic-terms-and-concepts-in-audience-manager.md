@@ -1,7 +1,7 @@
 ---
 title: Audience Manager의 기본 용어 및 개념 이해
 description: 이 비디오에서는 신호, 특성, 세그먼트 등 Audience Manager에서 시작할 수 있는 몇 가지 기본 용어와 개념을 살펴봅니다.
-landing-page-description: 신호, 트레이트, 세그먼트 등 Audience Manager에서 시작할 수 있는 기본 용어와 개념을 학습합니다.
+landing-page-description: 신호, 트레이트, 세그먼트 등 Audience Manager에서 시작할 수 있는 기본 용어와 개념을 알아봅니다.
 feature: 개요
 topics: null
 activity: understand
