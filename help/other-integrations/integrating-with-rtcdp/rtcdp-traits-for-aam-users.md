@@ -2,19 +2,16 @@
 title: Audience Manager 사용자를 위한 실시간 CDP의 트레이트 이해
 description: Audience Manager에서 실시간 고객 데이터 플랫폼으로 이동하면 개념 간의 차이점을 이해하는데 도움이 됩니다. 이 비디오에서는 Audience Manager의 특징과 실시간 CDP에 해당하는 요소를 다룹니다.
 feature: 플랫폼 통합
-topics: null
-activity: understand
+topic: 통합
+role: 비즈니스 전문가, 건축가, 관리자, 리더
+level: 중간
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 331900.jpg
 kt: 7201
-topic: 통합
-role: 비즈니스 전문가
-level: 중간
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '175'
 ht-degree: 1%
 
 ---
