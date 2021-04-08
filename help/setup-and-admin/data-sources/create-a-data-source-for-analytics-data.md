@@ -8,16 +8,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 초급
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 499d95472d5dbe5563ebfe527a74a606ad144544
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 47%
+source-wordcount: '151'
+ht-degree: 50%
 
 ---
-
 
 # [!DNL Analytics] 데이터 {#create-a-data-source-for-analytics-data}에 대해 [!UICONTROL Data Source]을 만듭니다.
 
