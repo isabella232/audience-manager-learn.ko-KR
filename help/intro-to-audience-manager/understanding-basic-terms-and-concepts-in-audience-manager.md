@@ -9,16 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 5037
 thumbnail: 33887.jpg
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 초급
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 9721e178-b92d-427b-8621-9ca1958d934c
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 499d95472d5dbe5563ebfe527a74a606ad144544
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 73%
+source-wordcount: '90'
+ht-degree: 82%
 
 ---
-
 
 # Audience Manager의 기본 용어 및 개념 이해
 
