@@ -5,9 +5,9 @@ breadcrumb-title: Audience Manager 자습서
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 4e536596d8fc3f7004e9d0be05b01066a92f73f5
+source-git-commit: 92185bb82356eab8dfb53f79fdbb8b760e313bc3
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '923'
 ht-degree: 4%
 
 ---
@@ -129,7 +129,7 @@ ht-degree: 4%
       + [데이터 내보내기 레이블을 사용하여 데이터 흐름 제어](data-activation/destinations-basics/using-data-export-labels-to-control-data-flow.md)
    + Audience Lab {#audience-lab}
       + [Audience Lab을 사용하여 DSP 선택](data-activation/audience-lab/using-audience-lab-to-choose-a-dsp.md)
-      + [전환 트레이트 만들기](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
+      + [전환 트레이트 만들기](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html)
    + 사용자 기반 대상 {#people-based-destinations}
       + [사람 기반 대상 비디오 및 Tutorials](data-activation/people-based-destinations/pbd.md)
       + [사람 기반 대상 데이터 흐름](data-activation/people-based-destinations/people-based-destinations-data-flow.md)
