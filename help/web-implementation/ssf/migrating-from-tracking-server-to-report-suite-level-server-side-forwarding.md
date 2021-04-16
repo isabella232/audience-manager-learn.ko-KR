@@ -1,23 +1,23 @@
 ---
 title: 추적 서버에서 보고서 세트 수준 서버측 전달으로 마이그레이션
 description: 이 문서 및 비디오에서는 추적 서버 수준이 아니라 보고서 세트 수준에서 Audience Manager으로 Analytics 데이터를 서버측에서 전달하는 방법을 보여 줍니다.
-product: audience manager, analytics
+product: audience manager
 feature: Adobe Analytics 통합
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: '"개발자, 데이터 엔지니어"'
-level: 중간
+role: Developer, Data Engineer
+level: Intermediate
+exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL Tracking Server]에서 [!UICONTROL Report Suite]-Level [!UICONTROL Server-Side Forwarding] {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}(으)로 마이그레이션
 
