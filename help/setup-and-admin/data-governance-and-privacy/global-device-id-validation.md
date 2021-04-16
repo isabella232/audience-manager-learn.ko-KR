@@ -1,22 +1,22 @@
 ---
 title: 전역 장치 ID 유효성 검사
 description: '장치 광고 식별자(예: iDFA, GAID, Roku ID)에는 디지털 광고 에코시스템에서 사용할 수 있도록 하기 위해 충족해야 하는 형식 지정 표준이 있습니다. 오늘날 고객 및 파트너는 ID의 올바른 형식 지정 여부에 대한 알림을 받지 않고도 원하는 형식의 글로벌 데이터 소스에 ID를 업로드할 수 있습니다. 이 기능은 적절한 서식을 위해 전역 데이터 소스에 보낸 장치 ID의 유효성 검사를 도입하고 ID의 형식이 잘못된 경우 오류 메시지를 제공합니다. 실행 시 iDFA, Google 광고 및 Roku ID에 대한 유효성 검사를 지원할 예정입니다.'
-feature: '"데이터 거버넌스 및 개인 정보"'
+feature: 데이터 거버넌스 및 개인 정보
 topics: mobile
 activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
-role: '"개발자, 데이터 엔지니어, 건축가"'
-level: 경험
+role: Developer, Data Engineer, Architect
+level: Experienced
+exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
-
 
 # 전역 장치 ID 유효성 검사 {#global-device-id-validation}
 
