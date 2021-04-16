@@ -2,22 +2,21 @@
 title: Audience Manager에서 IAB TCF 2.0 지원
 description: Adobe은 옵트인 기능 및 IAB 투명도 및 동의 프레임워크 2.0(TCF 2.0) 지원에 대한 Audience Manager 플러그인을 통해 사용자의 개인정보 보호 선택 사항을 관리하고 소통할 수 있는 방법을 제공합니다. 이 문서는 IAB TCF에 대한 Audience Manager 플러그인을 이해하고 Adobe의 옵트인 개체 및 CMP(Consent Management Provider)와 함께 사용하는 방법을 이해하는 데 도움이 되는 문서와 함께 사용할 수 있습니다.
 feature: '"데이터 거버넌스 및 개인 정보"'
-topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 26434.jpg
 kt: 5027
-role: '"개발자, 데이터 엔지니어, 건축가"'
-level: 경험
+role: Developer, Data Engineer, Architect
+level: Experienced
+exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '1131'
+source-wordcount: '1126'
 ht-degree: 0%
 
 ---
-
 
 # Audience Manager {#iab-tcf-support-in-audience-manager}에서 IAB TCF 2.0 지원
 
