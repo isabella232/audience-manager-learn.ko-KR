@@ -1,10 +1,10 @@
 ---
 title: Audience Manager 사용자를 위한 실시간 CDP의 스키마 및 XDM 이해
 description: Audience Manager에서 실시간 CDP(Customer Data Platform)(실시간 CDP)로 이동하면 몇 가지 새로운 개념과 관행이 제시됩니다. 스키마와 XDM은 해당 카테고리로 분류됩니다. 이 비디오에서는 이러한 개념을 설명합니다.
-feature: 플랫폼 통합
-topic: 통합
-role: 비즈니스 전문가, 건축가, 관리자, 리더
-level: 중간
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272

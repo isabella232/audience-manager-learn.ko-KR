@@ -1,15 +1,15 @@
 ---
 title: Audience Manager 대상 유형 이해
 description: 이 비디오에서는 Adobe Audience Manager의 다양한 유형의 대상을 소개하고 각 대상을 언제 사용할지를 예시합니다.
-feature: 대상 기본 사항
+feature: Destination Basics
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 초급
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

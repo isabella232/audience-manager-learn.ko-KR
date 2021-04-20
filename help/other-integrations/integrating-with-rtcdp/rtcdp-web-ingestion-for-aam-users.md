@@ -1,10 +1,10 @@
 ---
 title: Audience Manager 사용자를 위한 실시간 CDP에서 웹 데이터 통합 이해
 description: 이 비디오에서는 Audience Manager 사용자에게 웹 사이트 데이터를 실시간 고객 데이터 플랫폼(CDP)으로 가져오는 것과 관련된 개념을 보여 주고, Audience Manager 데이터 커넥터의 적절한 위치와 웹 SDK를 통해 직접 웹 사이트에서 실시간 CDP로 데이터를 이동할 수 있는 방법에 대한 고급 터치를 제공합니다.
-feature: 플랫폼 통합
-topic: 통합
-role: 비즈니스 전문가, 건축가, 관리자, 리더
-level: 중간
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331752.jpg
 kt: 7153

@@ -1,15 +1,15 @@
 ---
 title: 고객 팁 - 프로필 병합 규칙 활용
 description: Accordant의 멀티 솔루션 컨설턴트인 Varun Kalra는 PMR(프로필 병합 규칙)을 선택하고 사용하는 방법에 대한 팁을 제공합니다.
-feature: 프로필 병합
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

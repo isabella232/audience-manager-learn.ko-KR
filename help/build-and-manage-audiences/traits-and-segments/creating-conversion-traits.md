@@ -1,15 +1,15 @@
 ---
 title: Audience Manager에서 전환 트레이트 만들기
 description: 사용자 트레이트 중 일부는 사이트에서의 전환을 기반으로 합니다. 이 비디오에서는 이러한 매개 변수를 이와 같이 지정하고 매우 중요한 팁/gotcha를 학습하는 방법을 살펴봅니다.
-feature: 트레이트
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

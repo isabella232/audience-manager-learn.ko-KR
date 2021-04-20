@@ -1,15 +1,15 @@
 ---
 title: 대상에 Audience Manager 세그먼트 매핑
 description: Audience Manager의 서로 다른 유형의 대상과 각 대상 유형에 세그먼트를 매핑하는 세부 정보에 대해 알아봅니다.
-feature: 세그먼트
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39158.jpg
 kt: 6056
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

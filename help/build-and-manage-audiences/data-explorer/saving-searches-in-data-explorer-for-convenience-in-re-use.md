@@ -1,7 +1,7 @@
 ---
 title: Data Explorer에서 검색을 다시 사용하기 쉽게 저장
 description: 이 비디오에서는 Data Explorer에서 검색을 구성하고 실행한 다음 나중에 다시 사용하기 위해 저장하는 방법을 알아봅니다. 또한 저장된 검색을 대시보드에 배치하여 신호 앱으로 이동할 때 즉시 사용할 수 있습니다.
-feature: 데이터 탐색기
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 초급
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

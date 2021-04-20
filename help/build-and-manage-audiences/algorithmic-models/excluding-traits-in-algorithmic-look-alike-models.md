@@ -1,15 +1,15 @@
 ---
 title: 알고리즘(유사) 모델에서 트레이트 제외
 description: '이 비디오에서는 알고리즘(유사) 모델에서 특정(또는 그룹) 트레이트를 제외하는 방법 및 이유를 알아봅니다. '
-feature: 알고리즘 모델
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 중간
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

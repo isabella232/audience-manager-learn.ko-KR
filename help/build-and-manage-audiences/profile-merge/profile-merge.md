@@ -1,14 +1,14 @@
 ---
 title: 프로필 병합 비디오 및 Tutorials
 description: 이 섹션에는 프로필 병합 규칙과 같은 프로필 병합 기능에 대한 비디오와 자습서가 포함되어 있습니다.
-feature: 프로필 병합
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 중간
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

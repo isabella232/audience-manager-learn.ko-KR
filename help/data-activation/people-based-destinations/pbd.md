@@ -1,14 +1,14 @@
 ---
 title: 사람 기반 대상 비디오 및 Tutorials
 description: 이 섹션에는 사람 기반 대상과 관련된 항목에 대한 비디오 및 자습서가 포함되어 있습니다.
-feature: '"사람 기반 대상"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
-role: 관리자
-level: 초급
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

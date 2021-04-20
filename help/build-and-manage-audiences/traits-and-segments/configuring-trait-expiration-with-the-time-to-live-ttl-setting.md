@@ -1,15 +1,15 @@
 ---
 title: TTL(Time to Live) 설정으로 특성 만료 구성
 description: 트레이트를 만들 때의 설정 중 하나는 "TTL" 또는 "유지 시간" 설정이며, 지정된 기간 내에 요청하지 않는 경우 트레이트의 멤버십 만료입니다. 이 비디오에서는 이 기능을 보고 설정하는 방법을 보여 줍니다.
-feature: 트레이트
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 329381.jpg
 kt: 6782
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

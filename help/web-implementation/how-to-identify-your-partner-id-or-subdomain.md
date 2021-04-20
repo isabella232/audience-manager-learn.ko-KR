@@ -1,14 +1,14 @@
 ---
 title: Audience Manager 파트너 ID 또는 하위 도메인을 식별하는 방법
 description: 일부 Experience Cloud 기능을 구현할 때 Audience Manager "파트너 ID"가 무엇인지 알아야 합니다("클라이언트 ID" 또는 "하위 도메인"이라고도 함). 이 비디오에서는 Audience Manager UI에서 이 ID를 얻을 수 있는 두 가지 위치를 보여줍니다.
-feature: 구현 기본 사항
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: '"개발자, 데이터 엔지니어"'
-level: 중간
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

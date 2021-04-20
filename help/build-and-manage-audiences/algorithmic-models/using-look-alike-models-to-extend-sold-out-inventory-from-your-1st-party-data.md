@@ -1,15 +1,15 @@
 ---
 title: 유사 모델을 사용하여 자사 데이터에서 판매 재고 확장
 description: 이 자습서에서는 유사한 새 대상을 만들고 전환 세그먼트의 확장으로 판매할 수 있도록 유사 모델을 설정하고 사용하는 데 필요한 단계를 살펴봅니다.
-feature: 알고리즘 모델
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23523.jpg
 kt: 1688
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 중간
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

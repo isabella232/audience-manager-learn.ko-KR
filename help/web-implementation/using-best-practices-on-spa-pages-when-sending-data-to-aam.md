@@ -1,15 +1,15 @@
 ---
 title: AAM으로 데이터를 보낼 때 SPA 페이지에 대한 우수 사례 사용
 description: 이 문서에서는 SPA(단일 페이지 애플리케이션)에서 Adobe Audience Manager(AAM)으로 데이터를 전송할 때 따라야 하는 몇 가지 우수 사례에 대해 설명합니다. 이 문서에서는 권장 구현 방법인 Launch by Adobe 사용에 중점을 둡니다.
-feature: 구현 기본 사항
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: '"개발자, 데이터 엔지니어"'
-level: 경험
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

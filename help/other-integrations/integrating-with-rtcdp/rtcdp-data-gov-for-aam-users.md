@@ -1,10 +1,10 @@
 ---
 title: Audience Manager 사용자를 위한 실시간 CDP의 데이터 거버넌스 이해
 description: 이 비디오에서는 Audience Manager 사용자에게 실시간 고객 데이터 플랫폼의 데이터 거버넌스 기능을 Audience Manager에서 사용할 수 있었던 기능과 비교하여 보여 줍니다. DULE(Data Usage and Lawring Enforcement) 프레임워크와 이 프레임워크를 플랫폼에서 적용할 수 있는 위치에 대해 설명합니다.
-feature: 플랫폼 통합
-topic: 통합
-role: 비즈니스 전문가, 건축가, 관리자, 리더
-level: 중간
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337

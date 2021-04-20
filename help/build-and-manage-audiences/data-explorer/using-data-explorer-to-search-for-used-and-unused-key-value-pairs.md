@@ -1,15 +1,15 @@
 ---
 title: Data Explorer을 사용하여 AAM에서 사용된 키/사용하지 않은 키/값 쌍 검색
 description: Audience Manager에서 일상적인 작업에서 특정 키/값 쌍에서 트레이트가 만들어졌는지 빠르게 확인해야 할 수 있습니다. 이 비디오에서는 Data Explorer을 사용하여 알아보는 방법을 보여줍니다.
-feature: 데이터 탐색기
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 초급
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: 대상 ID 보고
 description: 대상 ID 보고는 ID의 개인/세대 정의별로 트레이트 또는 세그먼트의 총 인구를 보고하는 기능을 고객에게 제공합니다. 이 비디오를 시청하여 Audience Manager 보고서에서 어떻게 나타나는지 확인합니다.
-feature: 프로필 병합
+feature: profile merge
 topics: null
 audience: marketer
 activity: use

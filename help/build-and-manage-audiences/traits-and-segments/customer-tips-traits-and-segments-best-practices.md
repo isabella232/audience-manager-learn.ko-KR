@@ -1,15 +1,15 @@
 ---
 title: 고객 팁 - 트레이트 및 세그먼트 우수 사례
 description: Ally Financial의 선임 마케팅 전문가 Matt Vittorioso는 트레이트 및 세그먼트 관리에 대한 팁을 제공합니다.
-feature: 세그먼트
+feature: Segments
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 세그먼트를 장치 기반 대상에 매핑
 description: 대상 세그먼트를 DSP 또는 다른 파트너로 전송하려면 세그먼트를 Audience Manager의 대상에 매핑해야 합니다. 이 비디오에서는 세그먼트를 "서버간" 대상이라고도 하는 장치 기반 대상에 매핑하는 과정을 안내합니다.
-feature: 세그먼트
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36495.jpg
 kt: 5805
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Audience Manager의 [!UICONTROL Predictive Audiences] 이해
 description: 이 비디오에서는 Audience Manager [!UICONTROL Predictive Audiences]에 대해 토론하고,의 작동 방식에 대한 세부 정보를 제공하고 사용 사례를 살펴봅니다.
-feature: 알고리즘 모델
+feature: Algorithmic Models
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33629.jpg
 kt: 4938
-role: 관리자
-level: 중간
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

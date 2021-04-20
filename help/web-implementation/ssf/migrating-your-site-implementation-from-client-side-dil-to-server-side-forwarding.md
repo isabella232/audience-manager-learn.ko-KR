@@ -2,13 +2,13 @@
 title: 사이트의 AAM 구현을 클라이언트측 DIL에서 서버측 포워딩으로 마이그레이션
 description: 이 자습서는 Adobe Audience Manager(AAM)과 Adobe Analytics이 모두 있는 경우에 적용되며, 현재 "DIL"(Data Integration Library) 코드를 사용하여 페이지에서 AAM으로 히트를 보내고 있으며, 페이지에서 Adobe Analytics으로 히트를 보내는 경우 적용됩니다. 두 솔루션은 모두 가지고 있고, 두 솔루션은 모두 Adobe Experience Cloud의 일부이므로, Analytics 데이터 수집 서버가 클라이언트측 코드를 페이지에서 AAM으로 추가 히트를 전송하는 대신 실시간으로 사이트 분석 데이터를 Audience Manager으로 전달하는 "서버측 전달(SSF)"을 설정하는 최상의 방법을 따를 수 있습니다. 이 자습서에서는 이전 "클라이언트측 DIL" 구현에서 최신 "서버측 전달" 방법으로 전환하는 단계를 안내합니다.
 product: audience manager
-feature: Adobe Analytics 통합
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt

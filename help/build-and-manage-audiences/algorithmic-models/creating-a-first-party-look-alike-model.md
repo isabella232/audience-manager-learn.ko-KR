@@ -1,15 +1,15 @@
 ---
 title: AAM에서 자사 유사 모델 만들기
 description: 이 비디오에서는 퍼스트 파티 유사 모델을 만드는 방법을 학습하여 전환자와 비슷한 방문자를 더 많이 찾을 수 있습니다.
-feature: 알고리즘 모델
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23504.jpg
 kt: 1805
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 중간
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

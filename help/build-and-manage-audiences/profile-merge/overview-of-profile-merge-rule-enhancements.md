@@ -1,15 +1,15 @@
 ---
 title: 프로필 병합 규칙 개선 사항 개요
 description: 이 비디오에서는 2019년 10월에 릴리스된 프로필 병합 규칙의 개선 사항에 대해 설명합니다.
-feature: 프로필 병합
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28976.jpg
 kt: 3710
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 초급
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

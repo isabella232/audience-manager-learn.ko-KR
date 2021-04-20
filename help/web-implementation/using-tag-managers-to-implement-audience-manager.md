@@ -1,14 +1,14 @@
 ---
 title: 태그 관리자를 사용하여 Audience Manager 구현
 description: 이 비디오에서는 태그 관리 솔루션을 사용할 때 Adobe Audience Manager을 구현하는 기본 사항을 알아봅니다.
-feature: 구현 기본 사항
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4051
-role: '"개발자, 데이터 엔지니어"'
-level: 중간
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -2,13 +2,13 @@
 title: 추적 서버에서 보고서 세트 수준 서버측 전달으로 마이그레이션
 description: 이 문서 및 비디오에서는 추적 서버 수준이 아니라 보고서 세트 수준에서 Audience Manager으로 Analytics 데이터를 서버측에서 전달하는 방법을 보여 줍니다.
 product: audience manager
-feature: Adobe Analytics 통합
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt

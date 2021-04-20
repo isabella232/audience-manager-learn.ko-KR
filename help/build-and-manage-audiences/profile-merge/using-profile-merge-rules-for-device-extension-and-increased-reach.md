@@ -1,15 +1,15 @@
 ---
 title: 장치 확장 및 도달 증가에 대한 프로필 병합 규칙 사용
 description: 프로파일 병합 규칙을 사용하여 모든 사용자의 장치에 대한 도달 범위를 확장하여 장치 대신 다른 사람에게 제공할 수 있습니다.
-feature: 프로필 병합
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35939.jpg
 kt: 5552
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

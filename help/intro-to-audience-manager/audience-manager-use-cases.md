@@ -1,15 +1,15 @@
 ---
 title: Audience Manager 사용 사례
 description: 이 비디오에서는 4개의 일반적인 Audience Manager 사용 사례를 식별하고 이와 관련된 모범 사례를 설명합니다.
-feature: 개요
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5145
 thumbnail: 33975.jpg
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 초급
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

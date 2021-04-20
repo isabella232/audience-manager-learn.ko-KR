@@ -1,15 +1,15 @@
 ---
 title: 트레이트 그래프의 숫자 이해
 description: 트레이트 정보 화면에서 트레이트에 대해 보고된 수치를 이해하는 데 대한 팁을 얻을 수 있습니다.
-feature: 트레이트
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327171.jpg
 kt: 6494
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

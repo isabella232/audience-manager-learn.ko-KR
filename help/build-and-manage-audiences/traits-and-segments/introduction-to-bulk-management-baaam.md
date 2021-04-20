@@ -8,8 +8,8 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 327692.jpg
 kt: 6050
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

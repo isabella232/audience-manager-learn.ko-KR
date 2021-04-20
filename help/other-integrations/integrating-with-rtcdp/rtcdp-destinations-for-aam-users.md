@@ -1,10 +1,10 @@
 ---
 title: Audience Manager 사용자를 위한 실시간 CDP의 대상 이해
 description: Audience Manager에서 실시간 고객 데이터 플랫폼(CDP)으로 전환하는 경우 대상 세그먼트를 대상 파트너로 활성화하는 방법을 알 수 있도록 대상을 파악해야 합니다. 이 비디오에서는 실시간 CDP에서 서로 다른 대상 유형 및 위치를 설명합니다.
-feature: 플랫폼 통합
-topic: 통합
-role: 비즈니스 전문가, 건축가, 관리자, 리더
-level: 중간
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332203.jpg
 kt: 7352

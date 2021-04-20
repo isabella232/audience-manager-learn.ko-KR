@@ -1,15 +1,15 @@
 ---
 title: Audience Manager의 일치 비율 인터페이스 이해
 description: 이 비디오에서는 대상 인터페이스를 통해 일치 비율 및 어드레서블 대상과 연관된 숫자를 표시하고 설명합니다.
-feature: 일치율
+feature: Match Rates
 topics: null
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 초급
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

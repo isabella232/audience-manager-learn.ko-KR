@@ -1,15 +1,15 @@
 ---
 title: 세그먼트 빌더의 특성 권장 사항 개선 사항
 description: 이 비디오에서는 Audience Marketplace 추천인 세그먼트 빌더에서 업데이트된 트레이트 권장 사항을 사용하는 방법을 확인할 수 있습니다. 이렇게 하면 세그먼트의 범위를 확장할 수 있는 제3자 데이터에 대한 추가 통찰력을 얻을 수 있습니다.
-feature: 세그먼트
+feature: Segments
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 초급
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

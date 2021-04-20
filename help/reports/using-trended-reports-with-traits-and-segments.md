@@ -1,15 +1,15 @@
 ---
 title: 트레이트 및 세그먼트와 함께 트렌드 보고서 사용
 description: Audience Manager에서 트렌드 보고서를 사용하여 트레이트 및 세그먼트가 시간에 따라 어떻게 작동하는지 확인하는 방법을 살펴봅니다.
-feature: '"일반 및 트렌드 보고서"'
+feature: "General & Trend Reports"
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328280.jpg
 kt: 6646
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

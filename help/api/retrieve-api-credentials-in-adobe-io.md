@@ -9,7 +9,7 @@ team: Technical Marketing
 thumbnail: 37889.jpg
 kt: 5971
 role: Developer
-level: 경험
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 세그먼트 만들기 기본 사항
 description: Audience Manager에서 세그먼트를 만들려면 UI의 필드를 살펴보십시오.
-feature: 세그먼트
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37056.jpg
 kt: 5820
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

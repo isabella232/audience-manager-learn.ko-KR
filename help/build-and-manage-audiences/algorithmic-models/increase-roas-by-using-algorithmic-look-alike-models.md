@@ -1,15 +1,15 @@
 ---
 title: Audience Manager에서 알고리즘(유사) 모델을 사용하여 ROAS 증가
 description: Audience Manager의 유사 모델링의 실제 장점은 기준 고객을 품질로 확대하려는 경우, 2차 및 3차 데이터 소스의 새로운 사용자 집합을 브랜드에 맞게 확장할 수 있다는 것입니다. 이 자습서에서는 이 데이터에서 모델을 만드는 단계를 알아봅니다.
-feature: 알고리즘 모델
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 중간
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

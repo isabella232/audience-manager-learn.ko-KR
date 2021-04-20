@@ -1,16 +1,16 @@
 ---
 title: Adobe Advertising Cloud 및 Adobe Audience Manager 통합
 description: Adobe Audience Manager과 Adobe Ad Cloud의 통합이 어떻게 작동하는지를 알아봅니다. 또한 일치 비율과 타사 쿠키 동기화에 대한 답변도 확인할 수 있습니다.
-feature: Advertising Cloud 통합
+feature: Advertising Cloud Integration
 topics: null
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 25894.jpg
 kt: 3072
-topic: 통합
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 중간
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
