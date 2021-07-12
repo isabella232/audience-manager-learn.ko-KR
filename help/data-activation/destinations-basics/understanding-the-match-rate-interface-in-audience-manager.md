@@ -1,27 +1,26 @@
 ---
-title: Audience Manager의 일치 비율 인터페이스 이해
-description: 이 비디오에서는 대상 인터페이스를 통해 일치 비율 및 어드레서블 대상과 연관된 숫자를 표시하고 설명합니다.
-feature: Match Rates
+title: Audience Manager의 일치율 인터페이스 이해
+description: 이 비디오에서는 대상 인터페이스를 통해 일치율 및 대응 가능 대상과 관련된 숫자를 표시하고 설명합니다.
+feature: 일치율
 topics: null
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 903f8329-a434-4938-b190-600fc03b571d
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '69'
 ht-degree: 2%
 
 ---
 
+# Audience Manager의 일치율 인터페이스 이해
 
-# Audience Manager의 일치 비율 인터페이스 이해
-
-이 비디오는 일치 비율 및 [!DNL addressable audiences]과 관련된 숫자를 표시하고 설명하는 [!UICONTROL destination] 인터페이스를 안내합니다.
+이 비디오에서는 [!UICONTROL destination] 인터페이스를 통해 일치율 및 [!DNL addressable audiences]과 연관된 숫자를 표시하고 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
