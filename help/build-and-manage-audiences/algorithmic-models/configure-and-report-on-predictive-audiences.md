@@ -1,27 +1,26 @@
 ---
-title: Audience Manager의 [!UICONTROL Predictive Audiences]에 대한 구성 및 보고
-description: 이 비디오에서는 Audience Manager 인터페이스의 [!UICONTROL Predictive Audiences] 구성을 살펴봅니다. 모델의 결과를 보여주는 보고서도 볼 수 있습니다.
-feature: Algorithmic Models
+title: Audience Manager에서 [!UICONTROL Predictive Audiences]에 대한 구성 및 보고
+description: 이 비디오에서는 Audience Manager 인터페이스의 [!UICONTROL Predictive Audiences] 구성을 살펴봅니다. 모델의 결과를 보여주는 보고서도 살펴봅니다.
+feature: 알고리즘 모델
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33630.jpg
 kt: 4390
-role: Administrator
+role: Admin
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 5c4f8b2e-b0ed-44b6-a19c-be5ea6312646
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 3%
+source-wordcount: '85'
+ht-degree: 2%
 
 ---
 
+# Audience Manager에서 [!UICONTROL Predictive Audiences]에 대한 구성 및 보고
 
-# Audience Manager의 [!UICONTROL Predictive Audiences]에 대한 구성 및 보고
-
-이 비디오에서는 Audience Manager 인터페이스의 [!UICONTROL Predictive Audiences] 구성을 살펴봅니다. 모델의 결과를 보여주는 보고서도 볼 수 있습니다.
+이 비디오에서는 Audience Manager 인터페이스의 [!UICONTROL Predictive Audiences] 구성을 살펴봅니다. 모델의 결과를 보여주는 보고서도 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
