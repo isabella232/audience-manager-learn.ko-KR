@@ -1,26 +1,25 @@
 ---
-title: Google 고객 일치 사람 기반 대상 이해 및 구성
-description: 이 비디오에서는 Google 고객 일치 사용자 기반 대상의 세부 사항 및 사용 사례를 소개하고 세그먼트를 만들고 대상에 매핑하는 연습을 포함합니다. 또한 Google 광고 콘솔에서 대상자 랜딩을 표시합니다.
-feature: "People-based Destinations"
+title: Google Customer Match 사람 기반 대상 이해하기 및 구성하기
+description: 이 비디오에서는 Google Customer Match 사람 기반 대상의 세부 정보 및 사용 사례를 안내하고 세그먼트 생성 및 대상 매핑에 대한 연습을 포함합니다. 또한 Google 광고 콘솔의 대상 랜딩도 표시합니다.
+feature: '"사용자 기반 대상"'
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 38552.jpg
 kt: 6042
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c333e02e-a585-49aa-b095-f2dcbbd258a8
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
+# Google Customer Match 사람 기반 대상 이해하기 및 구성하기
 
-# Google 고객 일치 사람 기반 대상 이해 및 구성
-
-이 비디오에서는 Google 고객 일치 사람 기반 대상의 세부 사항 및 사용 사례를 안내합니다. 세그먼트 만들기 및 대상에 매핑하는 안내 설명이 포함됩니다. 또한 Google 광고 콘솔에서 대상자 랜딩을 표시합니다.
+이 비디오에서는 Google Customer Match 사람 기반 대상의 세부 정보 및 사용 사례를 안내하고 세그먼트 생성 및 대상 매핑에 대한 안내 설명이 포함됩니다. 또한 Google 광고 콘솔의 대상 랜딩도 표시합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38552/?quality=12&learn=on)
