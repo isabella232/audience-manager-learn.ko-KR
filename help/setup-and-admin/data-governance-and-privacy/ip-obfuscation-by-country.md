@@ -1,26 +1,25 @@
 ---
 title: Audience Manager의 국가별 IP 난독화
-description: Audience Manager은 UI에서 셀프 서비스 기능을 제공하므로 고객은 IP 난독화를 전역 또는 국가별로 활성화할 수 있습니다. 이 비디오에서는 설정을 안내합니다.
-feature: "Data Governance & Privacy"
+description: Audience Manager은 고객이 IP 난독화를 전 세계 또는 국가별로 설정할 수 있도록 UI에서 셀프 서비스 기능을 제공합니다. 이 비디오에서는 설정을 안내합니다.
+feature: '"데이터 거버넌스 및 개인 정보"'
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 103643ff-c006-4111-b469-901271faaf9d
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
+# Audience Manager의 국가별 IP 난독화 {#ip-obfuscation-by-country-in-audience-manager}
 
-# Audience Manager {#ip-obfuscation-by-country-in-audience-manager}에서 국가별 IP 난독화
-
-Audience Manager은 UI에서 셀프 서비스 기능을 제공하므로 고객은 IP 난독화를 전역 또는 국가별로 활성화할 수 있습니다. 이 비디오에서는 설정을 안내합니다.
+Audience Manager은 고객이 IP 난독화를 전 세계 또는 국가별로 설정할 수 있도록 UI에서 셀프 서비스 기능을 제공합니다. 이 비디오에서는 설정을 안내합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 
