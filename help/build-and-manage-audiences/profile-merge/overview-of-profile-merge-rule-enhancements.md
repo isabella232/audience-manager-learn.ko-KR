@@ -1,23 +1,22 @@
 ---
 title: 프로필 병합 규칙 개선 사항 개요
-description: 이 비디오에서는 2019년 10월에 릴리스된 프로필 병합 규칙의 개선 사항에 대해 설명합니다.
-feature: Profile Merge
+description: 이 비디오에서는 2019년 10월에 발표된 프로필 병합 규칙 개선 사항에 대해 설명합니다.
+feature: 프로필 병합
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28976.jpg
 kt: 3710
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: edad121e-fa6e-4ea8-b99a-6830dd51669a
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '32'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL Profile Merge Rule] 개선 사항 개요
 
