@@ -1,26 +1,25 @@
 ---
-title: 세그먼트 분류 만들기
-description: Audience Manager에서 세그먼트를 만들면 폴더 기반 구조 또는 "분류"에 해당 세그먼트를 저장합니다. 세그먼트 분류법을 만들고 관리하는 데 필요한 몇 가지 팁을 알아봅니다.
-feature: Segments
+title: 세그먼트 분류 체계 만들기
+description: Audience Manager에서 세그먼트를 만들면 폴더 기반 구조 또는 "분류 체계"에 저장합니다. 세그먼트 분류 체계의 생성 및 관리에 대한 몇 가지 팁을 알아봅니다.
+feature: 세그먼트
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37909.jpg
 kt: 5933
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: aa00b640-0b52-4c11-9165-9d73c78e77bf
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '67'
 ht-degree: 1%
 
 ---
 
+# 세그먼트 분류 체계 만들기
 
-# 세그먼트 분류 만들기
-
-Audience Manager에서 세그먼트를 만들면 폴더 기반 구조 또는 &quot;분류&quot;에 해당 세그먼트를 저장합니다. 세그먼트 분류법을 만들고 관리하는 데 필요한 몇 가지 팁을 알아봅니다.
+Audience Manager에서 세그먼트를 만들면 폴더 기반 구조 또는 &quot;분류 체계&quot;에 저장합니다. 세그먼트 분류 체계의 생성 및 관리에 대한 몇 가지 팁을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37909/?quality=12&learn=on)
