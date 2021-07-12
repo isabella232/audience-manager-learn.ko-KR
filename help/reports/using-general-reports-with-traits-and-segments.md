@@ -1,26 +1,25 @@
 ---
-title: 트레이트 및 세그먼트와 함께 일반 보고서 사용
-description: 이 비디오에서는 Audience Manager의 일반 보고서를 사용하여 트레이트 및 세그먼트에 대한 번호를 얻는 방법을 참조하십시오.
-feature: "General & Trend Reports"
+title: 트레이트 및 세그먼트 관련 일반 보고서 사용하기
+description: 이 비디오에서 Audience Manager의 일반 보고서를 사용하여 트레이트 및 세그먼트에 대한 숫자를 가져오는 방법을 참조하십시오.
+feature: '"일반 및 트렌드 보고서"'
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328279.jpg
 kt: 6645
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 163ddd7b-e677-440c-92ca-53ac78e09f5a
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
+# 트레이트 및 세그먼트 관련 일반 보고서 사용하기
 
-# 트레이트 및 세그먼트와 함께 일반 보고서 사용
-
-이 비디오에서는 Audience Manager의 일반 보고서를 사용하여 트레이트 및 세그먼트에 대한 번호를 얻는 방법을 참조하십시오.
+이 비디오에서 Audience Manager의 일반 보고서를 사용하여 트레이트 및 세그먼트에 대한 숫자를 가져오는 방법을 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)
