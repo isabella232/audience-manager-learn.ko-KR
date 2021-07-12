@@ -1,23 +1,22 @@
 ---
 title: 프로필 병합 규칙을 사용하여 인증된 상태에서 개인화
 description: 이러한 프로필 병합 규칙 설정을 사용하여 로그인한 고객에게 개인화된 경험을 제공합니다.
-feature: Profile Merge
+feature: 프로필 병합
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35938.jpg
 kt: 5357
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 189b751f-b71a-4579-8e2d-fc0d24e7e148
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL Profile Merge Rules]을 사용하여 인증된 상태에서 개인화
 
