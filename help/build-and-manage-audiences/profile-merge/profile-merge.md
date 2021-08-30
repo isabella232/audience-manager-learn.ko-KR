@@ -1,7 +1,7 @@
 ---
 title: 프로필 병합 비디오 및 Tutorials
 description: 이 섹션에는 프로필 병합 규칙과 같은 프로필 병합 기능에 대한 비디오 및 자습서가 포함되어 있습니다.
-feature: 프로필 병합
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: null
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ ht-degree: 0%
 * [Audience Identity 보고 해석](interpret-audience-identity-reporting.md)
 * [Audience Manager의 교차 장치 지표 이해](understanding-cross-device-metrics-in-audience-manager.md)
 
-이 비디오들은 [설명서](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)와 함께 사용할 수 있습니다
+이 비디오들은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)와 함께 사용할 수 있습니다

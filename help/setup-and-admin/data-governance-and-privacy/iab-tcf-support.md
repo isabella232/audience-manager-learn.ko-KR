@@ -10,9 +10,9 @@ kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '1117'
+source-wordcount: '1120'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ IAB TCF를 사용할 경우 얻을 수 있는 이점 중 하나는 위에 나열
 
 Audience Manager을 승인하려면(즉, 옵트인에 대한 IAB 목적 번역을 위해 AAM에 &quot;예&quot; 투표를 하려면), 위에 나열된 대로 목적 1 및 10을 최종 사용자의 동의를 받아야 합니다. 이러한 항목이 승인되지 않았거나 또는 벤더가 승인되지 않은 경우에는 AAM에서 픽셀을 실행하거나 쿠키를 설정하지 않습니다. 또한 많은 고객이 최종 사용자에게 Audience Manager(및 기타 Experience Cloud 솔루션)의 사용을 허용 또는 허용하지 않는 &quot;모두 또는 없음&quot; UI를 제공하도록 선택한다는 것을 알고 있는 것이 좋습니다.
 
-[설명서](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html)에 IAB TCF 플로우용 Audience Manager 플러그인이 게시자와 광고주 사용 사례 모두에 적용되는 방식에 대한 몇 가지 중요한 정보가 있습니다.
+[설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en)에 IAB TCF 플로우용 Audience Manager 플러그인이 게시자와 광고주 사용 사례 모두에 적용되는 방식에 대한 몇 가지 중요한 정보가 있습니다.
 
 ## IAB: 다운스트림으로 동의 보내기 {#iab-sending-consent-downstream}
 

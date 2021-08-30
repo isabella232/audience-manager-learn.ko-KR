@@ -1,7 +1,7 @@
 ---
 title: 유사 모델을 사용하여 자사 데이터에서 판매 재고 확장
 description: 이 자습서에서는 유사 대상을 만들고 전환 세그먼트에 확장으로 판매할 수 있도록 유사 모델을 설정하고 사용하는 데 수행해야 하는 단계를 살펴봅니다.
-feature: 알고리즘 모델
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1688
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '822'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**참고:**  위의 비디오에서 내가 보여주는 예는 Adobe Analytics이 있다고 가정합니다. 분명히, 이것은 사실이 아닐 수도 있습니다. GA(Google Analytics)이 있는 경우 AAM에 데이터를 전송하는 데 사용할 수 있는 모듈이 있습니다( [설명서](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html) 참조). 사이트의 전환 활동이 GA별로 AAM으로 전송되는 경우 이 모듈에서 전환 트레이트를 생성할 수 있습니다. 다른 Analytics 솔루션이 있거나 Analytics 솔루션이 없는 경우에도 DIL 코드 및 `submit` 함수 등을 통해 데이터를 AAM에 보낼 수 있습니다. ( [설명서](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html) 참조). 그런 다음 사이트에서 전환 활동이 수행될 때 전송된 데이터를 기반으로 전환 트레이트를 만듭니다.
+**참고:**  위의 비디오에서 내가 보여주는 예는 Adobe Analytics이 있다고 가정합니다. 분명히, 이것은 사실이 아닐 수도 있습니다. GA(Google Analytics)이 있는 경우 AAM에 데이터를 전송하는 데 사용할 수 있는 모듈이 있습니다( [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html) 참조). 사이트의 전환 활동이 GA별로 AAM으로 전송되는 경우 이 모듈에서 전환 트레이트를 생성할 수 있습니다. 다른 Analytics 솔루션이 있거나 Analytics 솔루션이 없는 경우에도 DIL 코드 및 `submit` 함수 등을 통해 데이터를 AAM에 보낼 수 있습니다. ( [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html) 참조). 그런 다음 사이트에서 전환 활동이 수행될 때 전송된 데이터를 기반으로 전환 트레이트를 만듭니다.
 
 ## [!UICONTROL First Party] 데이터에서 유사 [!UICONTROL Model] 만들기 {#creating-a-look-alike-model-from-first-party-data}
 

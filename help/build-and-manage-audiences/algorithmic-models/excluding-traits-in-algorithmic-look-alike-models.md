@@ -1,7 +1,7 @@
 ---
 title: 알고리즘(유사) 모델에서 트레이트 제외
 description: '이 비디오에서는 알고리즘(유사) 모델에서 특정(또는 그룹) 트레이트를 제외하는 방법 및 이유를 알아봅니다. '
-feature: 알고리즘 모델
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 1759
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 94becb1c-18c3-4fe1-bf24-acae127682da
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 1%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
@@ -28,5 +28,3 @@ ht-degree: 1%
 
 * 사이트 방문자 [!UICONTROL traits]와 같은 매우 일반적인 [!UICONTROL traits]은(는) 품질의 유사 대상을 찾는 데 유용하지 않은 [!UICONTROL model]를 편중합니다. 고객은 더 이상 별도의 [!UICONTROL data source]을 만들고 새 [!UICONTROL data source]에 일반 [!UICONTROL traits]을 저장할 필요가 없지만, 이제 이러한 항목을 제외할 수 있습니다.
 * 이제 [!UICONTROL model]에 있는 모든 정보가 아닌 [!UICONTROL third party]의 [!UICONTROL traits] 하위 집합을 사용하는 방법이 있습니다. [!UICONTROL Third parties] 일반적으로 고객에게 유용하지 않을 수 있는 많은 데이터를 보냅니다. 일부 경우에는 모델링에서 법적 관점에서 모든 데이터를 사용할 수 없습니다. 이제 [!UICONTROL model]에 포함하지 않으려는 [!UICONTROL traits] 또는 [!UICONTROL traits]의 폴더를 제외할 수 있습니다.
-
-이 기능에 대한 자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html)를 참조하십시오.

@@ -2,18 +2,15 @@
 title: 대상 랩을 사용하여 DSP 선택
 description: 이 비디오에서는 A/B 테스트 DSP 또는 기타 AAM 대상을 확인하여 광고 투자 수익률을 극대화할 수 있도록 Audience Lab 테스트 생성을 안내합니다.
 feature: Audience Lab
-topics: null
-activity: use
 doc-type: feature video
-team: Technical Marketing
 thumbnail: 24923.jpg
 kt: 1552
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Admin, Leader
 level: Intermediate
 exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -35,4 +32,4 @@ ht-degree: 0%
 1. 테스트 요약을 확인하고 테스트를 활성화합니다
 1. 테스트가 완료되면 [!UICONTROL Audience Lab] 의 기본 홈 화면에서 결과에 액세스합니다
 
-자세한 내용은 [기능 설명서](https://marketing.adobe.com/resources/help/en_US/aam/audience-lab.html)를 참조하십시오.
+자세한 내용은 [기능 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-lab/audience-lab.html)를 참조하십시오.

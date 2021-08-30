@@ -2,7 +2,7 @@
 title: 추적 서버에서 보고서 세트 수준 서버측 전달로 마이그레이션
 description: 이 문서와 비디오에서는 추적 서버 수준이 아닌 보고서 세트 수준에서 Analytics 데이터를 Audience Manager으로 서버측 전달을 활성화하는 방법을 보여줍니다.
 product: audience manager
-feature: Adobe Analytics 통합
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
@@ -11,9 +11,9 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Adobe Audience Manager AND Adobe Analytics이 있는 경우 [!DNL Analytics] 데
 
 ## [!UICONTROL Report Suite]-레벨 [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
-[!UICONTROL tracking server] 전달에서 [!UICONTROL report suite] 전달로 이동하는 데 가장 큰 이점 중 하나는 이제 &quot;Audience Analytics&quot;을 사용할 수 있다는 것입니다. 이 기능은 Audience Manager [!UICONTROL segments]를 다시 Adobe Analytics으로 전달하여 자세한 [!UICONTROL segment] 분석을 수행할 수 있는 기능입니다. [!UICONTROL report suite] 전달이 아닌 [!UICONTROL tracking server] 전달을 사용하는 경우에는 이 훌륭한 기능이 지원되지 않습니다. [설명서](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/)에서 Audience Analytics에 대한 자세한 내용을 참조하십시오.
+[!UICONTROL tracking server] 전달에서 [!UICONTROL report suite] 전달로 이동하는 데 가장 큰 이점 중 하나는 이제 &quot;Audience Analytics&quot;을 사용할 수 있다는 것입니다. 이 기능은 Audience Manager [!UICONTROL segments]를 다시 Adobe Analytics으로 전달하여 자세한 [!UICONTROL segment] 분석을 수행할 수 있는 기능입니다. [!UICONTROL report suite] 전달이 아닌 [!UICONTROL tracking server] 전달을 사용하는 경우에는 이 훌륭한 기능이 지원되지 않습니다. [설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)에서 Audience Analytics에 대한 자세한 내용을 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

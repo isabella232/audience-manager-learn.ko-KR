@@ -2,7 +2,7 @@
 title: 클라이언트측 DIL에서 서버측 전달로 사이트의 AAM 구현 마이그레이션
 description: 이 자습서는 Adobe Audience Manager(AAM)과 Adobe Analytics이 모두 있고 현재 "DIL"(Data Integration Library) 코드를 사용하여 페이지에서 AAM으로 히트를 전송하고 있으며 페이지에서 Adobe Analytics으로 히트를 보내는 경우에 적용됩니다. 이 두 가지 솔루션을 모두 사용할 수 있으며, 둘 다 Adobe Experience Cloud의 일부이므로 Analytics 데이터 수집 서버가 Audience Manager에서 AAM으로 추가 히트를 보내는 대신 사이트 분석 데이터를 실시간으로 전송할 수 있는 "SSF(서버측 전달)"를 설정하는 우수 사례를 따를 수 있습니다. 이 자습서에서는 이전 "클라이언트측 DIL" 구현에서 최신 "서버측 전달" 방법으로 전환하는 단계를 설명합니다.
 product: audience manager
-feature: Adobe Analytics 통합
+feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
@@ -11,9 +11,9 @@ kt: 1778
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '2322'
+source-wordcount: '2318'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ AAM 구현의 [!UICONTROL Server-Side Forwarding] 메서드로 이동하는 것�
 
 [!UICONTROL Server-Side Forwarding](으)로 이동하기 위한 기본 전제 조건은 Experience Cloud ID 서비스가 구현된 상태여야 합니다. 이 작업은 Experience Platform Launch을 사용하는 경우 가장 쉽게 수행합니다. 이 경우 ECID 확장을 설치하면 나머지 작업을 수행합니다.
 
-Adobe이 아닌 TMS를 사용하거나 TMS가 없는 경우 ECID를 구현하여 다른 Adobe 솔루션 전에 **을 실행하십시오.** 자세한 내용은 [ECID 설명서](https://marketing.adobe.com/resources/help/ko_KR/mcvid/)를 참조하십시오. 유일한 다른 전제 조건은 코드 버전에 대한 것이므로 다음 단계에서 최신 버전의 코드를 적용하면 됩니다.
+Adobe이 아닌 TMS를 사용하거나 TMS가 없는 경우 ECID를 구현하여 다른 Adobe 솔루션 전에 **을 실행하십시오.** 자세한 내용은 [ECID 설명서](https://experienceleague.adobe.com/docs/id-service/using/home.html)를 참조하십시오. 유일한 다른 전제 조건은 코드 버전에 대한 것이므로 다음 단계에서 최신 버전의 코드를 적용하면 됩니다.
 
 >[!NOTE]
 >
@@ -191,4 +191,4 @@ Adobe이 아닌 TMS를 사용하거나 TMS가 없는 경우 ECID를 구현하여
 
 ![거짓 성공](assets/falsesuccess.png)
 
-[!UICONTROL Server-Side Forwarding]에 대한 자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/en_US/reference/ssf.html)를 참조하십시오.
+[!UICONTROL Server-Side Forwarding]에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html)를 참조하십시오.

@@ -1,7 +1,7 @@
 ---
 title: Audience Manager에서 알고리즘(유사) 모델을 사용하여 ROAS를 늘립니다
 description: Audience Manager의 유사 모델링에서 제공하는 진정한 기능은 기준선 대상을 품질로 확장하려 할 때 제공되며, 제2자 데이터 소스와 타사 데이터 소스의 새로운 사용자 집합입니다. 이 자습서에서는 이 데이터에서 모델을 만드는 단계를 알아봅니다.
-feature: 알고리즘 모델
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1849
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Audience Manager의 유사 [!UICONTROL Modeling]의 진정한 기능은 품질�
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**참고:**  위의 비디오에서 내가 보여주는 예는 Adobe Analytics이 있다고 가정합니다. 분명히, 이것은 사실이 아닐 수도 있습니다. Google Analytics(GA)가 있는 경우 AAM에 데이터를 전송하는 데 사용할 수 있는 모듈이 있습니다( [설명서](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html) 참조). 사이트의 전환 활동이 GA에 의해 AAM으로 전송되는 경우 이 모듈에서 전환 [!UICONTROL trait]을 생성할 수 있습니다. 다른 Analytics 솔루션이 있거나 Analytics 솔루션이 없는 경우에도 DIL 코드 및 `submit` 함수 등을 통해 데이터를 AAM에 보낼 수 있습니다. ( [설명서](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html) 참조). 그런 다음 사이트에서 전환 활동이 수행될 때 전송된 데이터를 기반으로 전환 [!UICONTROL trait]을 만듭니다.
+**참고:**  위의 비디오에서 내가 보여주는 예는 Adobe Analytics이 있다고 가정합니다. 분명히, 이것은 사실이 아닐 수도 있습니다. Google Analytics(GA)가 있는 경우 AAM에 데이터를 전송하는 데 사용할 수 있는 모듈이 있습니다( [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html) 참조). 사이트의 전환 활동이 GA에 의해 AAM으로 전송되는 경우 이 모듈에서 전환 [!UICONTROL trait]을 생성할 수 있습니다. 다른 Analytics 솔루션이 있거나 Analytics 솔루션이 없는 경우에도 DIL 코드 및 `submit` 함수 등을 통해 데이터를 AAM에 보낼 수 있습니다. ( [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html) 참조). 그런 다음 사이트에서 전환 활동이 수행될 때 전송된 데이터를 기반으로 전환 [!UICONTROL trait]을 만듭니다.
 
 ## [!UICONTROL Second Party] 또는 [!UICONTROL Third Party] 데이터에서 유사 [!UICONTROL Model] 만들기 {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 
