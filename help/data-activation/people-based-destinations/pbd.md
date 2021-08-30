@@ -1,7 +1,7 @@
 ---
 title: 사용자 기반 대상 비디오 및 Tutorials
 description: 이 섹션에는 사용자 기반 대상에 대한 주제에 대한 비디오 및 자습서가 포함되어 있습니다.
-feature: '"사용자 기반 대상"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL People-Based Destinations] 비디오 및 Tutorials
 
-[!UICONTROL People-Based Destinations] 이메일 주소 또는 전화 번호와 같이 해시된 식별자를 기반으로 대상 세그먼트를 만들기 위해 온라인 및 오프라인 데이터에 세그멘테이션을 적용할 수 있습니다. 그런 다음 이러한 세그먼트를 [!DNL Facebook] 또는 [!DNL LinkedIn] 등의 소셜 플랫폼으로 전송하여 대상을 타깃팅할 수 있습니다.
+[!UICONTROL People-Based Destinations] 이메일 주소와 같이 해시된 식별자를 기반으로 대상 세그먼트를 만들기 위해 온라인 및 오프라인 데이터에 세그멘테이션을 적용할 수 있습니다. 그런 다음 이러한 세그먼트를 [!DNL Facebook] 또는 [!DNL LinkedIn] 등의 소셜 플랫폼으로 전송하여 대상을 타깃팅할 수 있습니다.
 
 이 섹션에는 [!UICONTROL People-Based Destinations] 관련 주제에 대한 비디오 및 자습서가 포함되어 있습니다. [!UICONTROL People-Based Destinations] 설정을 위한 흐름/프로세스를 진행하면서 순서대로 의도적으로 나열되었습니다.
 
