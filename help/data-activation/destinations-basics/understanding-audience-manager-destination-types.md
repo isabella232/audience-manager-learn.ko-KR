@@ -1,7 +1,7 @@
 ---
 title: Audience Manager 대상 유형 이해
 description: 이 비디오에서는 Adobe Audience Manager의 다양한 대상 유형을 안내하고 각 대상을 언제 사용하는지에 대한 예를 제공합니다.
-feature: 대상 기본 사항
+feature: Destination Basics
 topics: null
 activity: understand
 doc-type: presentation
@@ -11,9 +11,9 @@ kt: 4016
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ ht-degree: 0%
 
 서버 간 [!UICONTROL destination] 파트너 목록 [HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx) 을 다운로드할 수 있습니다.
 
-자세한 내용은 [설명서](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)를 참조하십시오.
