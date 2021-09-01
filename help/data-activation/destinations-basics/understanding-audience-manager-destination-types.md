@@ -8,9 +8,9 @@ kt: 4016
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: a2bf5c6bdc7611cd6bc5d807e60ac6aa22d5c176
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-서버 간 [!UICONTROL destination] 파트너 목록 [HERE](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx) 을 다운로드할 수 있습니다.
+[Audience Manager 장치 기반 대상 설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html)에서 사용 가능한 서버 간 대상 파트너 목록을 볼 수 있습니다.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)를 참조하십시오.
+대상에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html)를 참조하십시오.
