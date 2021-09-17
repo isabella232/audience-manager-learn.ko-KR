@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 및 튜토리얼 모
 breadcrumb-title: Audience Manager 자습서
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
-source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
+source-git-commit: 25e6244eabc2d9b327077bfa334a9bcafb7a0745
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '970'
 ht-degree: 4%
 
 ---
@@ -25,9 +25,11 @@ ht-degree: 4%
    + 값 실현 {#value-realization}
       + [고객 억제 사용 사례에서 ROI 측정](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + 업계 뉴스 및 트렌드 {#industry}
-   + [데이터 관리와 변화하는 환경의 미래](industry/the-future-of-data-management-and-the-changing-environment.md)
-   + [고객 데이터 관리를 위한 10가지 고려 사항](industry/ten-considerations-for-responsible-customer-data-management.md)
-   + [브랜드와 소비자 두 가지 인식에 대한 이야기](industry/brands-vs-consumers.md)
+   + [데이터 관리와 변화하는 환경의 미래](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
+   + [고객 데이터 관리를 위한 10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [브랜드와 소비자 두 가지 인식에 대한 이야기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
+   + [Audience Center of Excellence](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [고객 프로필을 통해 더 나은 경험 구축](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + 설정 및 관리 {#setup-and-admin}
    + 데이터 소스 {#data-sources}
       + [Analytics 데이터에 대한 데이터 소스 만들기](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
