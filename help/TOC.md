@@ -2,9 +2,8 @@
 user-guide-title: Adobe Audience Manager 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Audience Manager 자습서
-breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
-source-git-commit: 25e6244eabc2d9b327077bfa334a9bcafb7a0745
+source-git-commit: 4062fdad47ca68002e901cbc54fd4a79a70e645f
 workflow-type: tm+mt
 source-wordcount: '970'
 ht-degree: 4%
@@ -34,7 +33,7 @@ ht-degree: 4%
    + 데이터 소스 {#data-sources}
       + [Analytics 데이터에 대한 데이터 소스 만들기](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
       + [교차 장치 데이터 소스 만들기 및 인증](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
-   + 사용자 관리{#user-management}를 참조하십시오.
+   + 사용자 관리 {#user-management}
       + [역할 기반 액세스 제어를 사용하여 권한 설정](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + 데이터 거버넌스 및 개인 정보 {#data-governance-and-privacy}
       + [글로벌 장치 ID 유효성 검사](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
