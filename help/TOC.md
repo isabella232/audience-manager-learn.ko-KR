@@ -3,7 +3,8 @@ user-guide-title: Adobe Audience Manager 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Audience Manager 자습서
 solution: Audience Manager
-source-git-commit: 4062fdad47ca68002e901cbc54fd4a79a70e645f
+type: Tutorial
+source-git-commit: 232402478860d25b701c35c6ce710f4cbba6143d
 workflow-type: tm+mt
 source-wordcount: '970'
 ht-degree: 4%
@@ -14,16 +15,16 @@ ht-degree: 4%
 # Audience Manager 자습서 {#tutorials}
 
 + [개요](overview.md)
-+ Audience Manager {#intro-to-audience-manager} 소개
++ Audience Manager 소개 {#intro-to-audience-manager}
    + [DMP가 비즈니스를 변경하는 방법](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - DMP 개요](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Audience Manager 사용 사례](intro-to-audience-manager/audience-manager-use-cases.md)
    + [기본 용어 및 개념 이해](intro-to-audience-manager/understanding-basic-terms-and-concepts-in-audience-manager.md)
    + [Audience Manager의 데이터 흐름 이해](intro-to-audience-manager/understanding-the-data-flow-in-audience-manager.md)
    + [Audience Manager의 ID 소개](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
-   + 값 실현 {#value-realization}
+   + 가치 실현 {#value-realization}
       + [고객 억제 사용 사례에서 ROI 측정](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
-+ 업계 뉴스 및 트렌드 {#industry}
++ 업계 뉴스 및 동향 {#industry}
    + [데이터 관리와 변화하는 환경의 미래](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
    + [고객 데이터 관리를 위한 10가지 고려 사항](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
    + [브랜드와 소비자 두 가지 인식에 대한 이야기](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
@@ -33,13 +34,13 @@ ht-degree: 4%
    + 데이터 소스 {#data-sources}
       + [Analytics 데이터에 대한 데이터 소스 만들기](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
       + [교차 장치 데이터 소스 만들기 및 인증](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
-   + 사용자 관리 {#user-management}
+   + 사용자 관리{#user-management}를 참조하십시오.
       + [역할 기반 액세스 제어를 사용하여 권한 설정](setup-and-admin/user-management/setting-permissions-with-role-based-access-control.md)
    + 데이터 거버넌스 및 개인 정보 {#data-governance-and-privacy}
       + [글로벌 장치 ID 유효성 검사](setup-and-admin/data-governance-and-privacy/global-device-id-validation.md)
       + [IAB TCF 2.0 지원](setup-and-admin/data-governance-and-privacy/iab-tcf-support.md)
       + [국가별 IP 난독화](setup-and-admin/data-governance-and-privacy/ip-obfuscation-by-country.md)
-   + 사용 및 청구 {#usage-and-billing}
+   + 사용 및 과금 {#usage-and-billing}
       + [활동 사용량 모니터링 및 보고](setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.md)
 + 웹 구현 {#web-implementation}
    + DIL(Data Integration Library) {#dil}
@@ -55,17 +56,17 @@ ht-degree: 4%
    + [파일 기반 데이터 형식 지정 및 수집](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [파일 기반 데이터 수집 단계](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + 모바일 구현 {#mobile-implementation}
-   + [iOS Swift 앱에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+   + [iOS Swift 앱의 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
    + [iOS Objective-C 앱에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Android 앱에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
-   + 데이터 {#buying-data} 구매
+   + 데이터 구매 {#buying-data}
       + [세그먼트 수준에서 Audience Marketplace의 제2자 및 타사 데이터 사용 보고](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Audience Marketplace에 데이터 사용량 일괄 업로드](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [필터 및 Recommendations을 사용하여 Audience Marketplace에서 타사 데이터 선택](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
-   + 데이터 {#selling-data} 판매
+   + 데이터 판매 {#selling-data}
       + [Marketplace에서 소유한 대상 상품화](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
-+ 대상 작성 및 관리 {#build-and-manage-audiences}
++ 대상자 작성 및 관리 {#build-and-manage-audiences}
    + 데이터 탐색기 {#data-explorer}
       + [신호 대시보드를 사용하여 사용 가능한 상위 신호를 빠르게 보기](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
       + [Data Explorer을 사용하여 사용 및 사용하지 않은 키/값 쌍 검색](build-and-manage-audiences/data-explorer/using-data-explorer-to-search-for-used-and-unused-key-value-pairs.md)
@@ -101,8 +102,8 @@ ht-degree: 4%
       + [세그먼트 그래프의 숫자 이해](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [고객 팁 - 트레이트 및 세그먼트 우수 사례](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + 알고리즘 모델 {#algorithmic-models}
-      + [[!UICONTROL Predictive Audiences] 이해](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [[!UICONTROL Predictive Audiences]에 대한 구성 및 보고](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [이해 [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [구성 및 보고 [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [자사 유사 모델 만들기](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [알고리즘(유사) 모델에서 트레이트 제외](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [알고리즘(유사) 모델을 사용하여 ROAS를 늘립니다](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
@@ -141,14 +142,14 @@ ht-degree: 4%
       + [사용자 기반 대상에 대한 세그먼트 만들기](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
       + [사용자 기반 대상 만들기 및 구성](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
       + [LinkedIn 사용자 기반 대상 이해 및 구성](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
-      + [Google Customer Match 사람 기반 대상 이해하기 및 구성하기](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
+      + [Google Customer Match 사람 기반 대상 이해 및 구성](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
 + 보고서 {#reports}
    + [트레이트 및 세그먼트 관련 일반 보고서 사용하기](reports/using-general-reports-with-traits-and-segments.md)
    + [트레이트 및 세그먼트 관련 트렌드 보고서 사용하기](reports/using-trended-reports-with-traits-and-segments.md)
    + [Overlap Reports를 통해 관련 대상 이해](reports/understand-related-audiences-with-overlap-reports.md)
    + [Audience Optimization 보고서를 사용하여 미디어 성능 이해](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + 기타 통합 {#other-integrations}
-   + 실시간 고객 데이터 플랫폼과 통합 {#integrating-with-rtcdp}
+   + Real-time Customer Data Platform과 통합 {#integrating-with-rtcdp}
       + [Adobe Audience Manager Data Connector를 사용하여 데이터 수집](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [실시간 CDP에서 자사 데이터 수집 이해](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [실시간 CDP에서 웹 데이터 섭취 이해](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
@@ -159,7 +160,7 @@ ht-degree: 4%
       + [실시간 CDP의 대상 이해](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
       + [실시간 CDP에서 액세스 제어 이해](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
       + [실시간 CDP에서의 데이터 거버넌스 이해](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
-   + Ad Cloud {#integrating-with-ad-cloud}과 통합
+   + Ad Cloud과 통합 {#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud 및 Adobe Audience Manager 통합](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
    + [Adobe I/O에서 API 자격 증명 검색하기](api/retrieve-api-credentials-in-adobe-io.md)
