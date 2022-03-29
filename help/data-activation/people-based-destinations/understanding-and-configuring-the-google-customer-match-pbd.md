@@ -1,7 +1,7 @@
 ---
-title: Google Customer Match 사람 기반 대상 이해하기 및 구성하기
+title: Google Customer Match 사람 기반 대상 이해 및 구성
 description: 이 비디오에서는 Google Customer Match 사람 기반 대상의 세부 정보 및 사용 사례를 안내하고 세그먼트 생성 및 대상 매핑에 대한 연습을 포함합니다. 또한 Google 광고 콘솔의 대상 랜딩도 표시합니다.
-feature: '"사용자 기반 대상"'
+feature: People-based Destinations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 6042
 role: User
 level: Beginner
 exl-id: c333e02e-a585-49aa-b095-f2dcbbd258a8
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# Google Customer Match 사람 기반 대상 이해하기 및 구성하기
+# Google Customer Match 사람 기반 대상 이해 및 구성
 
 이 비디오에서는 Google Customer Match 사람 기반 대상의 세부 정보 및 사용 사례를 안내하고 세그먼트 생성 및 대상 매핑에 대한 안내 설명이 포함됩니다. 또한 Google 광고 콘솔의 대상 랜딩도 표시합니다.
 

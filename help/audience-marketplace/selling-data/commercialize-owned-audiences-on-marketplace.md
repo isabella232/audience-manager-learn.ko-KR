@@ -11,15 +11,15 @@ kt: 6802
 role: User
 level: Experienced
 exl-id: 15a01564-fa14-4ab4-944d-af1c9041d788
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 2%
+source-wordcount: '75'
+ht-degree: 0%
 
 ---
 
 # Marketplace에서 소유한 대상 상품화
 
-이 비디오에서는 Audience Marketplace에서 데이터를 개인 또는 공개 데이터 피드로 설정하여 두 번째 또는 타사 데이터의 데이터 공급자로 만드는 방법을 알아봅니다.
+이 비디오에서는 Audience Marketplace에서 데이터를 개인 또는 공개 데이터 피드로 설정하여 제2자 데이터 또는 타사 데이터의 데이터 공급자로 만드는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331721/?quality=12&learn=on)

@@ -1,7 +1,7 @@
 ---
-title: 트레이트 및 세그먼트 관련 일반 보고서 사용하기
+title: 트레이트 및 세그먼트와 함께 일반 보고서 사용
 description: 이 비디오에서 Audience Manager의 일반 보고서를 사용하여 트레이트 및 세그먼트에 대한 숫자를 가져오는 방법을 참조하십시오.
-feature: '"일반 및 트렌드 보고서"'
+feature: General & Trend Reports
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ kt: 6645
 role: User
 level: Beginner
 exl-id: 163ddd7b-e677-440c-92ca-53ac78e09f5a
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# 트레이트 및 세그먼트 관련 일반 보고서 사용하기
+# 트레이트 및 세그먼트와 함께 일반 보고서 사용
 
 이 비디오에서 Audience Manager의 일반 보고서를 사용하여 트레이트 및 세그먼트에 대한 숫자를 가져오는 방법을 참조하십시오.
 

@@ -1,8 +1,7 @@
 ---
-title: 세그먼트 빌더의 트레이트 권장 사항 개선 사항
-description: 이 비디오에서는 세그먼트 빌더에서 Audience Marketplace 권장 사항인 업데이트된 트레이트 권장 사항을 사용하는 방법을 보게 됩니다. 이렇게 하면 세그먼트의 범위를 확장할 수 있는 타사 데이터에 대한 추가 통찰력을 얻을 수 있습니다.
+title: 세그먼테이션의 트레이트 권장 사항 개선 사항
+description: 이 비디오에서는 Audience Marketplace 추천인 세그먼트에서 업데이트된 트레이트 권장 사항을 사용하는 방법을 알아봅니다. 세그먼트의 도달 범위를 확장할 수 있는 타사 데이터에 대한 추가 통찰력을 얻을 수 있습니다.
 feature: Segments
-topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
@@ -11,17 +10,17 @@ kt: 3937
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# [!DNL Trait Recommendation] 의 개선 사항  [!DNL Segment Builder]
+# [!DNL Trait Recommendation] 세그멘테이션 개선 사항
 
-이 비디오에서는 [!DNL segment builder]에서 업데이트된 [!DNL trait recommendations]을 사용하는 방법을 볼 수 있습니다. 이는 Audience Marketplace 권장 사항입니다. 이렇게 하면 [!UICONTROL segments] 의 도달 범위를 확장할 수 있는 [!DNL third party] 데이터에 대한 추가 통찰력이 제공됩니다.
+이 비디오에서는에서 업데이트된 트레이트 권장 사항을 사용하는 방법을 알아봅니다. [!UICONTROL Segments]: [!UICONTROL Audience Marketplace] 권장 사항. 이렇게 하면 세그먼트의 범위를 확장할 수 있는 타사 데이터에 대한 추가 통찰력을 얻을 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html).

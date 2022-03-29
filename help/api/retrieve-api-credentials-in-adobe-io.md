@@ -1,6 +1,6 @@
 ---
-title: Adobe IO에서 API 자격 증명 검색
-description: REST API를 사용하기 위한 자격 증명을 위해 Adobe 컨설팅 또는 고객 지원 센터에 연락하는 대신 브라우저의 Adobe.io로 이동하여 자신의 자격 증명을 검색하거나 등록할 수 있습니다.
+title: Adobe 개발자에서 API 자격 증명 검색하기
+description: REST API 사용을 위한 자격 증명을 찾기 위해 Adobe 컨설팅이나 고객 지원에 연락하는 대신, 브라우저에서 developer.adobe.com으로 이동하여 자격 증명을 검색하거나 등록할 수 있습니다.
 feature: API
 topics: null
 activity: develop
@@ -10,17 +10,16 @@ thumbnail: 37889.jpg
 kt: 5971
 role: Developer
 level: Experienced
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: d1f4d44d-22c8-46d8-a662-0ded13a8566d
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 2%
+source-wordcount: '72'
+ht-degree: 0%
 
 ---
 
+# 에서 API 자격 증명 검색하기 [!DNL Adobe Developer]
 
-# Adobe I/O에서 API 자격 증명 검색
-
-REST API를 사용하기 위한 자격 증명을 위해 Adobe 컨설팅 또는 고객 지원 센터에 연락하는 대신 브라우저의 Adobe.io로 이동하여 자신의 자격 증명을 검색하거나 등록할 수 있습니다.
+REST API 사용을 위한 자격 증명을 찾기 위해 Adobe 컨설팅이나 고객 지원에 연락하는 대신, 브라우저에서 developer.adobe.com으로 이동하여 자격 증명을 검색하거나 등록할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37889/?quality=12&learn=on)

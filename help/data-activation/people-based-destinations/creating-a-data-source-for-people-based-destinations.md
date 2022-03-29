@@ -1,7 +1,7 @@
 ---
 title: 사용자 기반 대상에 대한 데이터 소스 만들기
-description: 이 비디오에서는 사용자 기반 대상에 사용할 데이터 소스를 Audience Manager에 만드는 과정을 안내합니다.
-feature: '"사용자 기반 대상"'
+description: 사용자 기반 대상에 사용할 데이터 소스를 Audience Manager에서 만드는 방법을 알아봅니다.
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 3700
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: a9d9f3eb-13bb-41b9-9ee7-6b28fb25e2d3
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL People-Based Destinations]에 대해 [!UICONTROL Data Source] 만들기
+# 만들기 [!UICONTROL Data Source] 사용자 기반 대상
 
-이 비디오에서는 [!UICONTROL People-Based Destinations]에 사용할 Audience Manager에 [!UICONTROL Data Source] 을 만드는 과정을 안내합니다.
+이 비디오에서는 다음을 만드는 과정을 안내합니다 [!UICONTROL Data Source] 사용자 기반 대상에 사용할 Audience Manager에서 을 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29006/?quality=12)

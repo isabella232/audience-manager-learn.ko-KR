@@ -1,7 +1,7 @@
 ---
-title: 단순 프로필 병합 규칙 만들기 및 사용
+title: 간단한 프로필 병합 규칙 만들기 및 사용
 description: 프로필 병합 규칙 및 세그먼트에 할당하는 방법에 대해 알아보십시오. 기본 "현재 장치" 프로필과 이 프로필을 사용할 수 있거나 사용해야 하는 시기에 대해 알아봅니다.
-feature: 프로필 병합
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 5356
 role: User
 level: Beginner
 exl-id: de4910a5-9e89-4b38-9cf3-34c5fe658632
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# 단순 [!UICONTROL Profile Merge Rules] 만들기 및 사용
+# 간단한 만들기 및 사용 [!UICONTROL Profile Merge Rules]
 
-프로필 병합 규칙 및 세그먼트에 할당하는 방법에 대해 알아보십시오. 기본 &quot;현재 장치&quot; 프로필과 이 프로필을 사용할 수 있거나 사용해야 하는 시기에 대해 알아봅니다.
+알아보기 [!UICONTROL Profile Merge Rules] 세그먼트를 세그먼트에 할당하는 방법을 보여줍니다. 기본값에 대해 알아보기 [!UICONTROL Current Device] 프로필 및 사용 가능한 시기
 
 >[!VIDEO](https://video.tv.adobe.com/v/35937/?quality=12&learn=on)
