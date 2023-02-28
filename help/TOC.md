@@ -6,8 +6,8 @@ solution: Audience Manager
 type: Tutorial
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '966'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 3%
 + 오프라인 데이터 통합 {#integrating-offline-data}
    + [파일 기반 데이터 형식 지정 및 처리](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [파일 기반 데이터를 수집하는 절차](integrating-offline-data/steps-for-ingesting-file-based-data.md)
-+ Mobile 구현 {#mobile-implementation}
++ 모바일 구현 {#mobile-implementation}
    + [iOS Swift 애플리케이션에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
    + [iOS Objective-C 애플리케이션에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Android 애플리케이션에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
@@ -163,4 +163,4 @@ ht-degree: 3%
    + Ad Cloud과 통합 {#integrating-with-ad-cloud}
       + [Adobe Advertising Cloud 및 Adobe Audience Manager 통합](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
-   + [Adobe 개발자에서 API 자격 증명 검색하기](api/retrieve-api-credentials-in-adobe-io.md)
+   + [Adobe Developer에서 API 자격 증명 검색하기](api/retrieve-api-credentials-in-adobe-io.md)
