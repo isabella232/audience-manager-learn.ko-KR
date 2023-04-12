@@ -2,7 +2,7 @@
 title: Audience Manager의 ID 소개
 description: 내부 프로필 및 프로필 병합, 파트너와 ID 동기화 등 Audience Manager에서 ID를 관리하는 방법에 대해 알아봅니다.
 landing-page-description: 내부 프로필 및 프로필 병합, 파트너와 ID 동기화 등 Audience Manager에서 ID를 관리하는 방법에 대해 알아봅니다.
-short-description: Discover how Audience Manager manages identity – including internal profiles and profile merging, plus ID syncing with partners.
+short-description: 내부 프로필 및 프로필 병합, 파트너와 ID 동기화 등 Audience Manager에서 ID를 관리하는 방법에 대해 알아봅니다.
 feature: ID Syncs
 topics: null
 activity: understand
@@ -15,8 +15,8 @@ level: Beginner
 exl-id: 57e2274c-df69-4f1f-b999-a05b864023aa
 source-git-commit: f3efc9be51080a95618ea05e6021ec6064b87598
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 83%
+source-wordcount: '88'
+ht-degree: 86%
 
 ---
 
