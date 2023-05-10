@@ -9,10 +9,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
+source-git-commit: 8a0bc70bb543556a0ab68e428beaa58ca09deddc
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 9%
+source-wordcount: '312'
+ht-degree: 16%
 
 ---
 
@@ -54,42 +54,42 @@ Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 �
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="'모바일 iOS Swift 애플리케이션에서의 Experience Cloud 구현' 자습서에 대한 축소판 이미지" src="assets/thumb_swift.png" />
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ko-KR">
+      <img alt="'웹 SDK를 사용하여 Adobe Experience Cloud 구현' 자습서에 대한 축소판 이미지" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>모바일 iOS 앱에서의 Experience Cloud 구현</strong>
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ko-KR">
+    <strong>Web SDK 튜토리얼을 통해 Adobe Experience Cloud 구현</strong>
     </a>
     </div>
     <p>
-    <em>iOS Swift 앱에서 Adobe Experience Cloud 솔루션을 구현하는 방법을 배우고자 하는 모바일 앱 개발자에게 완벽한 시작점입니다</em>
+    <em>Adobe Experience Platform Web SDK를 사용하여 Experience Cloud 애플리케이션을 구현하는 방법을 알아봅니다.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="'모바일 Android 애플리케이션에서의 Experience Cloud 구현' 자습서에 대한 축소판 이미지" src="assets/thumb_android.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <img alt="실시간 CDP에서 세그먼트 이해 자습서에 대한 축소판 이미지" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>모바일에서 Experience Cloud 구현 [!DNL Android] 앱</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <strong>Audience Manager 사용자를 위한 실시간 CDP의 세그먼트 이해</strong>
     </a>
     </div>
     <p>
-    <em>Android 앱에서 Adobe Experience Cloud 솔루션을 구현하는 방법을 배우고자 하는 모바일 앱 개발자에게 완벽한 시작점입니다</em>
+    <em>이 비디오에서는 Audience Manager과 실시간 CDP 간의 세그먼트 및 세그먼트 생성의 차이점을 살펴봅니다.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="'모바일 Objective-C 애플리케이션에서의 Experience Cloud 구현' 자습서에 대한 축소판 이미지" src="assets/thumb_objective_c.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <img alt="'Audience Manager에서 예측 대상 구성 및 보고' 자습서의 축소판 이미지" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>모바일 Objective-C 앱에서의 Experience Cloud 구현</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <strong>Audience Manager에서 예측 대상 구성 및 보고</strong>
     </a>
     </div>
     <p>
-    <em>Objective-C 앱에서 Adobe Experience Cloud 솔루션을 구현하는 방법을 배우고자 하는 모바일 앱 개발자에게 완벽한 시작점입니다</em>
+    <em>이 비디오에서는 Audience Manager 인터페이스에서의 예측 대상 구성을 살펴봅니다.</em>
     <p>
   </td>
 </tr>
