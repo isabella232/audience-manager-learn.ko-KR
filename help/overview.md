@@ -9,7 +9,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 9%
@@ -24,6 +24,7 @@ Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 �
 * **왼쪽 탐색** 영역에서 주제 및 하위 주제별로 컨텐츠를 탐색할 수 있습니다
 * 찾고 있는 내용을 알고 있는 경우 페이지 상단에 있는 **검색** 필드를 사용합니다
 
+<div id="whats-new-section">
 ## 새로운 기능
 
 * **[개요 [!UICONTROL Profile Merge Rules] (비디오)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
@@ -37,6 +38,16 @@ Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 �
 * **[사용자 기반 대상 만들기 및 구성](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
    *를 설정하는 방법 알아보기 [!DNL People-Based Destination] Audience Manager UI에서*
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## 직원 추천
 
@@ -44,11 +55,11 @@ Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 �
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="'Mobile iOS Swift 애플리케이션에서의 Experience Cloud 구현' 자습서에 대한 축소판 이미지" src="assets/thumb_swift.png" />
+      <img alt="'모바일 iOS Swift 애플리케이션에서의 Experience Cloud 구현' 자습서에 대한 축소판 이미지" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>Mobile iOS 앱의 Experience Cloud 구현</strong>
+    <strong>모바일 iOS 앱에서의 Experience Cloud 구현</strong>
     </a>
     </div>
     <p>
@@ -57,11 +68,11 @@ Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 �
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="'Mobile Android 애플리케이션에서의 Experience Cloud 구현' 자습서에 대한 축소판 이미지" src="assets/thumb_android.png" />
+      <img alt="'모바일 Android 애플리케이션에서의 Experience Cloud 구현' 자습서에 대한 축소판 이미지" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>Mobile에서 Experience Cloud 구현 [!DNL Android] 앱</strong>
+    <strong>모바일에서 Experience Cloud 구현 [!DNL Android] 앱</strong>
     </a>
     </div>
     <p>
@@ -70,11 +81,11 @@ Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 �
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="'Mobile Objective-C 애플리케이션에서의 Experience Cloud 구현' 자습서에 대한 축소판 이미지" src="assets/thumb_objective_c.png" />
+      <img alt="'모바일 Objective-C 애플리케이션에서의 Experience Cloud 구현' 자습서에 대한 축소판 이미지" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Mobile Objective-C 앱의 Experience Cloud 구현</strong>
+    <strong>모바일 Objective-C 앱에서의 Experience Cloud 구현</strong>
     </a>
     </div>
     <p>
@@ -83,3 +94,4 @@ Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 �
   </td>
 </tr>
 </table>
+</div>
