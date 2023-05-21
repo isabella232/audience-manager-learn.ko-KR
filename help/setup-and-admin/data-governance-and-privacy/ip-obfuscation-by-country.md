@@ -1,6 +1,6 @@
 ---
-title: 나라별 IP 난독화
-description: Audience Manager에서 국가별 IP 난독화에 대해 알아봅니다. 이 애플리케이션은 UI에서 셀프 서비스 기능을 제공하여 고객이 IP 난독화를 전 세계 또는 국가별로 설정할 수 있도록 합니다. 이 비디오에서는 설정을 안내합니다.
+title: 국가별 IP 난독화
+description: Audience Manager 국가별 IP 난독화에 대해 알아봅니다. 이 애플리케이션은 UI에서 셀프서비스 기능을 제공하여 고객이 전 세계 또는 국가별로 IP 난독화를 켤 수 있도록 합니다. 이 비디오는 설정에 대해 소개합니다.
 feature: Data Governance & Privacy
 topics: null
 activity: use
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Audience Manager의 국가별 IP 난독화 {#ip-obfuscation-by-country-in-audience-manager}
+# Audience Manager 국가별 IP 난독화 {#ip-obfuscation-by-country-in-audience-manager}
 
-Audience Manager은 고객이 IP 난독화를 전 세계 또는 국가별로 설정할 수 있도록 UI에서 셀프 서비스 기능을 제공합니다. 이 비디오에서는 설정을 안내합니다.
+Audience Manager은 고객이 전 세계 또는 국가별로 IP 난독화를 켤 수 있도록 UI의 셀프서비스 기능을 제공합니다. 이 비디오는 설정에 대해 소개합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27218/?quality=9)
 

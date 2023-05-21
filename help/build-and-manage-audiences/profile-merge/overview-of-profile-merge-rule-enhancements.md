@@ -1,6 +1,6 @@
 ---
 title: 프로필 병합 규칙 개선 사항 개요
-description: 이 비디오에서는 2019년 10월에 발표된 프로필 병합 규칙 개선 사항에 대해 설명합니다.
+description: 이 비디오에서는 2019년 10월에 릴리스된 프로필 병합 규칙의 개선 사항에 대해 설명합니다.
 feature: Profile Merge
 topics: null
 activity: understand
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 개요 [!UICONTROL Profile Merge Rule] 개선 사항
 
-이 비디오에서는 의 개선 사항에 대해 설명합니다. [!UICONTROL Profile Merge Rules], 2019년 10월에 릴리스되었습니다.
+이 비디오에서는에 대한 개선 사항을 설명합니다. [!UICONTROL Profile Merge Rules], 2019년 10월에 릴리스되었습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28976/?quality=12)

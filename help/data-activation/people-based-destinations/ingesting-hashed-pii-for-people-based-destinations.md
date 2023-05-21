@@ -1,6 +1,6 @@
 ---
-title: 사용자 기반 대상에 대해 해시된 PII 수집
-description: 이 비디오에서는 고객 ID(CRM ID)를 해시된 이메일 주소와 함께 연결하기 위해 파일 기반 ID 동기화 형식을 지정하는 방법을 알아봅니다.
+title: 사용자 기반 대상에 대한 해시된 PII 수집
+description: 이 비디오에서는 해시된 이메일 주소와 고객 ID(CRM ID)를 함께 연결하기 위해 파일 기반 ID 동기화 형식을 지정하는 방법을 알아봅니다.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 사용자 기반 대상에 대해 해시된 PII 수집
+# 사용자 기반 대상에 대한 해시된 PII 수집
 
-이 비디오에서는 고객 ID(CRM ID)를 해시된 이메일 주소와 함께 연결하기 위해 파일 기반 ID 동기화 형식을 지정하는 방법을 알아봅니다. 해시된 이메일 주소를 다음과 같은 사용자 기반 대상으로 보낼 수 있습니다 [!DNL Facebook].
+이 비디오에서는 해시된 이메일 주소와 고객 ID(CRM ID)를 함께 연결하기 위해 파일 기반 ID 동기화 형식을 지정하는 방법을 알아봅니다. 이렇게 하면 해시된 이메일 주소를 다음과 같이 사람 기반 대상으로 보낼 수 있습니다. [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)

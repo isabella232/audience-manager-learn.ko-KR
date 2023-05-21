@@ -1,6 +1,6 @@
 ---
-title: 구성 및 보고 [!UICONTROL Predictive Audiences]
-description: 이 비디오에서는 다음을 수행하십시오 [!UICONTROL Predictive Audiences] Audience Manager 인터페이스의 구성입니다. 모델의 결과를 보여주는 보고서를 참조하십시오.
+title: 구성 및 보고 대상 [!UICONTROL Predictive Audiences]
+description: 이 비디오에서 다음 과정을 살펴보십시오. [!UICONTROL Predictive Audiences] Audience Manager 인터페이스에서 구성합니다. 모델의 결과를 보여 주는 보고서를 참조하십시오.
 feature: Algorithmic Models
 topics: null
 activity: use
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# 구성 및 보고 [!UICONTROL Predictive Audiences] Audience Manager
+# 구성 및 보고 대상 [!UICONTROL Predictive Audiences] Audience Manager
 
-이 비디오에서는, [!UICONTROL Predictive Audiences] Audience Manager 인터페이스의 구성입니다. 모델의 결과를 보여주는 보고서도 살펴봅니다.
+이 비디오에서는 다음 과정을 안내합니다 [!UICONTROL Predictive Audiences] Audience Manager 인터페이스에서 구성합니다. 모델의 결과를 보여주는 보고서도 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 

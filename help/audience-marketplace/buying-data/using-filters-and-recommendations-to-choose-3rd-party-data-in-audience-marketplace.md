@@ -1,6 +1,6 @@
 ---
-title: Audience Marketplace에서 타사 데이터를 선택하려면 필터 및 권장 사항을 사용하십시오
-description: 이 비디오에서는 Audience Marketplace의 필터 및 권장 사항 옵션을 확인하여 필요에 맞는 타사 데이터 공급자를 선택할 수 있습니다.
+title: 필터 및 권장 사항을 사용하여 Audience Marketplace에서 타사 데이터를 선택합니다.
+description: 이 비디오는 Audience Marketplace의 필터 및 권장 사항 옵션을 안내하여 요구 사항에 적합한 타사 데이터 공급자를 선택하는 데 도움이 됩니다.
 feature: Audience Marketplace
 topics: null
 activity: setup
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# 필터 및 권장 사항을 사용하여 [!UICONTROL Audience Marketplace]
+# 필터 및 권장 사항을 사용하여 의 서드파티 데이터 선택 [!UICONTROL Audience Marketplace]
 
-이 비디오는 [!UICONTROL Audience Marketplace] 을 통해 필요에 따라 적합한 타사 데이터 공급자를 선택할 수 있습니다.
+이 비디오는 의 필터 및 권장 사항 옵션을 소개합니다. [!UICONTROL Audience Marketplace] 을(를) 통해 요구 사항에 적합한 타사 데이터 공급자를 선택할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 

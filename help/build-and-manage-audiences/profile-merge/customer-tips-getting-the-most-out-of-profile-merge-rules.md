@@ -1,6 +1,6 @@
 ---
 title: 고객 팁 - 프로필 병합 규칙 활용하기
-description: Accordant의 멀티 솔루션 컨설턴트인 Varun Kalra가 프로필 병합 규칙(PMR)을 선택하고 사용하는 방법에 대한 팁을 제공합니다.
+description: Afterant의 멀티 솔루션 컨설턴트인 Varun Kalra가 PMR(프로필 병합 규칙)을 선택하고 사용하는 데 관한 팁을 제공합니다.
 feature: Profile Merge
 topics: null
 activity: use
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # 고객 팁 - 프로필 병합 규칙 활용하기
 
-**바룬 칼라**, 의 멀티 솔루션 컨설턴트 **아코디언**&#x200B;를 사용하여 프로필 병합 규칙(PMR)을 선택하고 사용하는 방법에 대한 팁을 제공합니다.
+**바룬 칼라**, 멀티 솔루션 컨설턴트 **에 따라서**&#x200B;는 프로필 병합 규칙(PMR)을 선택하고 사용하는 데 관한 팁을 제공합니다.
 
-Varun Kalra는 Sydney 기반 Adobe 솔루션 파트너에서 일하는 멀티 솔루션 컨설턴트입니다. Varun은 주로 데이터 검색, 구현, 지원 및 활성화와 관련된 Audience Manager, Adobe Analytics 및 AEP 프로젝트에서 작동합니다. 팁에는 다음과 같은 항목이 포함되어 있습니다.
+Varun Kalra는 Sydney에 본사를 둔 Adobe 솔루션 파트너(Partner - Accorant)에서 일하는 멀티 솔루션 컨설턴트입니다. Varun은 주로 데이터 검색, 구현, 지원 및 활성화와 관련된 Audience Manager, Adobe Analytics 및 AEP 프로젝트에서 작동합니다. 팁에는 다음과 같은 항목이 포함됩니다.
 
 * PMR 구성에 대한 캠페인 목표 식별
-* 타겟팅 사용 사례를 자세히 살펴보십시오
+* 타겟팅 사용 사례에 대해 자세히 알아보기
 * 다양한 PMR 설정에 대한 사용 사례
 
-[Experience League 커뮤니티에서 Varun의 팁 을 참조하십시오.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)
+[Experience League 커뮤니티에서 Varun의 팁 을 확인하십시오.](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager-blogs/getting-the-most-out-of-profile-merge-rules-tips-tricks-and/ba-p/372248)

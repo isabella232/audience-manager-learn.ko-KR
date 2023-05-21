@@ -1,6 +1,6 @@
 ---
-title: Data Explorer을 사용하여 사용 및 사용하지 않은 키/값 쌍을 검색합니다
-description: Audience Manager에서 수행하는 일상적인 작업에서는 특정 키/값 쌍에서 트레이트가 생성되었는지 신속하게 확인해야 할 수 있습니다. 이 비디오에서는 Data Explorer을 사용하여 를 찾는 방법을 보여줍니다.
+title: 사용된 키/값 쌍과 사용하지 않은 키/값 쌍을 검색하려면 Data Explorer 사용
+description: Audience Manager에서 일상적인 작업을 수행할 때 특정 키/값 쌍에서 트레이트가 생성되었는지 빠르게 확인해야 할 수 있습니다. 이 비디오는 Data Explorer을 확인하는 방법을 보여 줍니다.
 feature: Data Explorer
 topics: null
 activity: use
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # 사용 [!UICONTROL Data Explorer] AAM에서 사용 및 사용하지 않은 키/값 쌍을 검색하려면 다음을 수행하십시오 {#using-data-explorer-to-search-for-used-and-unused-key-value-pairs-in-aam}
 
-Audience Manager에서 수행하는 일상적인 작업에서는 특정 키/값 쌍에서 트레이트가 생성되었는지 신속하게 확인해야 할 수 있습니다. 이 비디오에서는 다음을 찾는 방법을 보여 줍니다. [!UICONTROL Data Explorer].
+Audience Manager에서 일상적인 작업을 수행할 때 특정 키/값 쌍에서 트레이트가 생성되었는지 빠르게 확인해야 할 수 있습니다. 이 비디오를 통해 다음을 확인하는 방법을 알아볼 수 있습니다. [!UICONTROL Data Explorer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/25148/?quality=12)
 
-신호가 트레이트에 생성되었는지 확인하기 위해 더 이상 BAAAM 파일 및 를 다운로드할 필요가 없습니다 [!UICONTROL Unused Signals] 보고서 세트에 대해 설명합니다. 이제 에서 해당 키/값 쌍을 검색할 수 있습니다. [!DNL Data Explorer], AKA [!UICONTROL Signals] 앱, AAM에서 트레이트에 있는 키/값 쌍과 그렇지 않은 키/값 쌍을 모두 동일한 목록에서 찾습니다. 시간을 절약해 드립니다!
+신호가 트레이트로 생성되었는지 확인하려면 BAAAM 파일과 [!UICONTROL Unused Signals] 보고서. 이제에서 해당 키/값 쌍을 간단히 검색할 수 있습니다. [!DNL Data Explorer], 라고도 함 [!UICONTROL Signals] 앱, AAM에서 트레이트에 있는 키/값 쌍과 그렇지 않은 키/값 쌍을 모두 동일한 목록에서 찾습니다. 멋진 시간 절약!
 
-에 대한 자세한 정보 [!UICONTROL Data Explorer], 방문 [Data Explorer - 개요, 이점 및 사용 사례](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).
+에 대한 자세한 내용 [!UICONTROL Data Explorer], 방문 [Data Explorer - 개요, 이점 및 사용 사례](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

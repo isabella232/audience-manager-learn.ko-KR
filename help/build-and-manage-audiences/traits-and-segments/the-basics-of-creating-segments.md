@@ -1,6 +1,6 @@
 ---
-title: 세그먼트 작성 기본 사항
-description: UI의 필드를 작성하면서 Audience Manager에서 세그먼트를 만드십시오.
+title: 세그먼트 작성의 기본 사항
+description: UI의 필드를 통해 Audience Manager에서 세그먼트를 만듭니다.
 feature: Segments
 topics: null
 activity: use
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# 세그먼트 작성 기본 사항
+# 세그먼트 작성의 기본 사항
 
-UI의 필드를 작성하면서 Audience Manager에서 세그먼트를 만드십시오.
+UI의 필드를 통해 Audience Manager에서 세그먼트를 만듭니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37056/?quality=12&learn=on)
 

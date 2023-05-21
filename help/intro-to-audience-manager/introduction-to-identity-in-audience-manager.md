@@ -1,5 +1,5 @@
 ---
-title: Audience Manager의 ID 소개
+title: Audience Manager에서 ID 소개
 description: 내부 프로필 및 프로필 병합, 파트너와 ID 동기화 등 Audience Manager에서 ID를 관리하는 방법에 대해 알아봅니다.
 landing-page-description: 내부 프로필 및 프로필 병합, 파트너와 ID 동기화 등 Audience Manager에서 ID를 관리하는 방법에 대해 알아봅니다.
 short-description: 내부 프로필 및 프로필 병합, 파트너와 ID 동기화 등 Audience Manager에서 ID를 관리하는 방법에 대해 알아봅니다.
@@ -20,7 +20,7 @@ ht-degree: 86%
 
 ---
 
-# Audience Manager의 ID 소개
+# Audience Manager에서 ID 소개
 
 이 비디오에서는 내부 프로필 및 프로필 병합과 ID 동기화 등 Adobe Audience Manager가 ID를 관리하는 방법을 알아봅니다.
 

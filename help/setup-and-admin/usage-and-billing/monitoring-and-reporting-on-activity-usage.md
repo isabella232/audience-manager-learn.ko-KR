@@ -1,6 +1,6 @@
 ---
 title: 활동 사용량 모니터링 및 보고
-description: 이 비디오에서는 표시 및 다운로드 선택 사항을 포함하여 활동 사용 보고서 를 사용하는 방법을 알아봅니다.
+description: 이 비디오에서는 디스플레이 및 다운로드 옵션을 포함하여 활동 사용 보고서 를 사용하는 방법에 대해 알아봅니다.
 feature: Usage and Billing
 topics: null
 activity: use
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 활동 사용량 모니터링 및 보고
 
-이 비디오에서는 [!UICONTROL Activity Usage Report]: 표시 및 다운로드 옵션을 포함합니다.
+이 비디오에서는 을(를) 사용하는 방법을 설명합니다. [!UICONTROL Activity Usage Report], 디스플레이 및 다운로드 옵션 포함.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 

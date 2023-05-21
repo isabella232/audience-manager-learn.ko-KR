@@ -1,7 +1,7 @@
 ---
 title: 프로필 병합 규칙 개요
-description: 프로필 병합 규칙 정의, 규칙 작동 방식 및 마케터에 대한 해당 값을 이해합니다.
-feature: 프로필 병합
+description: 프로필 병합 규칙이 무엇인지, 어떻게 작동하며 마케터에게 어떤 가치를 주는지 이해합니다.
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -13,13 +13,13 @@ level: Intermediate
 exl-id: edabbd66-1ee0-4337-bf27-7f240e8156a8
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
-# [!UICONTROL Profile Merge Rules] 개요
+# 개요 [!UICONTROL Profile Merge Rules]
 
-[!UICONTROL Profile Merge Rules]의 정의, 작동 방식 및 마케터에 대한 해당 값을 이해합니다.
+내용 이해 [!UICONTROL Profile Merge Rules] 즉, 작동 방식과 마케팅 담당자에 대한 가치입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

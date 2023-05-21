@@ -1,6 +1,6 @@
 ---
 title: 이해 [!UICONTROL Predictive Audiences] Audience Manager
-description: 이 비디오에서는 Audience Manager에 대해 알아봅니다 [!UICONTROL Predictive Audiences], 작동 방식에 대한 세부 사항 및 일반적인 사용 사례
+description: 이 비디오에서는 Audience Manager에 대해 알아봅니다. [!UICONTROL Predictive Audiences], 작동 방식 및 일반적인 사용 사례에 대한 세부 정보.
 feature: Algorithmic Models
 topics: null
 activity: understand
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 이해 [!UICONTROL Predictive Audiences] Audience Manager
 
-이 비디오에서는 Audience Manager에 대해 알아봅니다 [!UICONTROL Predictive Audiences], 작동 방식에 대한 세부 사항 및 일반적인 사용 사례
+이 비디오에서는 Audience Manager에 대해 알아봅니다. [!UICONTROL Predictive Audiences], 작동 방식 및 일반적인 사용 사례에 대한 세부 정보.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33629/?quality=12)
 

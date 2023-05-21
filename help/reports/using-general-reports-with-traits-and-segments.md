@@ -1,6 +1,6 @@
 ---
-title: 트레이트 및 세그먼트와 함께 일반 보고서 사용
-description: 이 비디오에서 Audience Manager의 일반 보고서를 사용하여 트레이트 및 세그먼트에 대한 숫자를 가져오는 방법을 참조하십시오.
+title: 트레이트 및 세그먼트 관련 일반 보고서 사용
+description: 이 비디오에서는 Audience Manager의 일반 보고서 를 사용하여 트레이트 및 세그먼트에 대한 숫자를 가져오는 방법을 참조하십시오.
 feature: General & Trend Reports
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 트레이트 및 세그먼트와 함께 일반 보고서 사용
+# 트레이트 및 세그먼트 관련 일반 보고서 사용
 
-이 비디오에서 Audience Manager의 일반 보고서를 사용하여 트레이트 및 세그먼트에 대한 숫자를 가져오는 방법을 참조하십시오.
+이 비디오에서는 Audience Manager의 일반 보고서를 사용하여 트레이트 및 세그먼트에 대한 숫자를 가져오는 방법을 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328279/?quality=12&learn=on)

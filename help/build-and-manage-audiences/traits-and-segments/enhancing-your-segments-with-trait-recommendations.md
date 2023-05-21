@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# 을 사용하여 세그먼트 향상 [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# 향상된 세그먼트 기능 [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-사용 [!UICONTROL Trait Recommendations]에서 세그먼트를 작성하거나 편집할 때 [!UICONTROL Segments]포함할 수 있는 추가 트레이트에 대한 권장 사항을 얻을 수 있습니다. 이러한 권장 사항은 세그먼트 규칙의 트레이트와 유사합니다.
+포함 [!UICONTROL Trait Recommendations]에서 세그먼트를 만들거나 편집할 때 [!UICONTROL Segments]를 사용하면 포함할 수 있는 추가 트레이트에 대한 권장 사항을 얻을 수 있습니다. 이러한 권장 사항은 세그먼트 규칙의 트레이트와 유사합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!UICONTROL Trait Recommendations] 추가 권장 사항을 포함할 수 있도록 자사 데이터와 타사 데이터에 모두 작업합니다. [!UICONTROL Traits] 타겟 대상자를 늘리고
+[!UICONTROL Trait Recommendations] 추가 권장 사항을 포함할 수 있도록 자사 데이터와 타사 데이터를 모두 작업합니다 [!UICONTROL Traits] 타겟 대상자를 늘립니다.
 
 이 기능에 대한 자세한 내용은 [설명서](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).

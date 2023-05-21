@@ -1,6 +1,6 @@
 ---
-title: 온보드 트레이트 만들기
-description: Audience Manager에서 온보드 특성을 만들기 위한 팁을 알아봅니다.
+title: 온보딩된 트레이트 만들기
+description: Audience Manager에서 온보딩된 트레이트를 만들기 위한 팁을 알아봅니다.
 feature: Traits
 topics: null
 activity: use
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 온보드 트레이트 만들기
+# 온보딩된 트레이트 만들기
 
-Audience Manager에서 온보드 특성을 만들기 위한 팁을 알아봅니다.
+Audience Manager에서 온보딩된 트레이트를 만들기 위한 팁을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40267/?quality=12&learn=on)

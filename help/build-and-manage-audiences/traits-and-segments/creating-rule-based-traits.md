@@ -1,6 +1,6 @@
 ---
 title: 규칙 기반 트레이트 만들기
-description: Audience Manager UI에서 트레이트 빌더를 사용하여 규칙 기반 트레이트를 만들어 Audience Manager 프로필으로 실시간 활동을 캡처하는 방법을 알아봅니다.
+description: Audience Manager UI에서 트레이트 빌더를 사용하여 규칙 기반 트레이트를 만들어 Audience Manager 프로필로 실시간 활동을 캡처하는 방법을 알아봅니다.
 feature: Traits
 topics: null
 activity: use
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 규칙 기반 트레이트 만들기
 
-사용 방법을 알아봅니다 [!UICONTROL Trait Builder] Audience Manager UI에서 규칙 기반 특성을 만들어 Audience Manager 프로필으로 실시간 활동을 캡처할 수 있습니다.
+사용 방법 알아보기 [!UICONTROL Trait Builder] Audience Manager UI에서 규칙 기반 트레이트를 만들어 Audience Manager 프로필로 실시간 활동을 캡처할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34749/?quality=12&learn=on)

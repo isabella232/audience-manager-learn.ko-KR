@@ -1,5 +1,5 @@
 ---
-title: 프로필 병합 규칙을 사용하여 인증된 상태에서 개인화합니다
+title: 프로필 병합 규칙을 사용하여 인증된 상태에서 개인화합니다.
 description: 이러한 프로필 병합 규칙 설정을 사용하여 로그인한 고객에게 개인화된 경험을 제공합니다.
 feature: Profile Merge
 topics: null
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 사용 [!UICONTROL Profile Merge Rules] 인증된 상태에서 개인화하려면
+# 사용 [!UICONTROL Profile Merge Rules] 인증된 상태에서 개인화하기
 
-로그인한 고객에게 이러한 기능을 사용하여 개인화된 경험을 제공합니다 [!UICONTROL Profile Merge Rule] 설정.
+다음을 사용하여 로그인한 고객에게 개인화된 경험을 제공합니다 [!UICONTROL Profile Merge Rule] 설정.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35938/?quality=12&learn=on)

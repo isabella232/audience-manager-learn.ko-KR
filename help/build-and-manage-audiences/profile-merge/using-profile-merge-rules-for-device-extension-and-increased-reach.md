@@ -1,6 +1,6 @@
 ---
-title: 장치 확장 및 도달 범위 증가에 대한 프로필 병합 규칙 사용
-description: 장치 대신 다른 사람에게 마케팅할 수 있도록 프로필 병합 규칙 을 사용하여 모든 사용자 장치에 대한 범위를 확장합니다.
+title: 장치 확장 및 향상된 도달 범위를 위해 프로필 병합 규칙 사용
+description: 프로필 병합 규칙 을 사용하여 사용자의 모든 장치에 연결할 수 있으므로 장치 대신 사람에게 마케팅할 수 있습니다.
 feature: Profile Merge
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 사용 [!UICONTROL Profile Merge Rules] 장치 확장 및 도달 범위 증가
 
-사용 [!UICONTROL Profile Merge Rules] 를 확장하여 장치 대신 사람에게 마케팅할 수 있도록 사용자의 모든 장치에 연결합니다.
+사용 [!UICONTROL Profile Merge Rules] 를 활성화하면 디바이스 대신 사람들에게 마케팅할 수 있도록 를 확장하여 사용자의 모든 디바이스에 연결할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35939/?quality=12&learn=on)

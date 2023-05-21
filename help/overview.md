@@ -1,6 +1,6 @@
 ---
 title: Audience Manager 비디오 및 자습서
-description: Adobe Audience Manager을 위한 비디오 및 자습서 모음입니다.
+description: Adobe Audience Manager을 위한 비디오 및 튜토리얼 모음입니다.
 feature: Overview
 topics: null
 activity: use
@@ -18,9 +18,9 @@ ht-degree: 16%
 
 # Audience Manager 자습서
 
-Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 자습서 사용 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 는 Adobe의 동급 최강의 기능을 사용하여 모든 채널 또는 장치에서 Adobe Audience Manager을 사용하여 대상을 만들고 활성화하는 방법을 보다 효과적으로 이해할 수 있도록 해줍니다 [!DNL data management platform].
+Audience Manager 자습서 사이트에 오신 것을 환영합니다. 다음 안내서와 함께 이 튜토리얼 사용 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) 는 Adobe의 동급 최강을 사용하여 모든 채널 또는 장치에서 Adobe Audience Manager을 사용하여 대상을 만들고 활성화하는 방법을 보다 잘 이해할 수 있도록 해줍니다 [!DNL data management platform].
 
-* **직원 추천** 즐겨찾는 일부 컨텐츠를 강조 표시합니다
+* **직원 추천** 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
 * **왼쪽 탐색** 영역에서 주제 및 하위 주제별로 컨텐츠를 탐색할 수 있습니다
 * 찾고 있는 내용을 알고 있는 경우 페이지 상단에 있는 **검색** 필드를 사용합니다
 
@@ -29,15 +29,15 @@ Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 �
 
 * **[개요 [!UICONTROL Profile Merge Rules] (비디오)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
 
-   *다음 내용 이해 [!UICONTROL Profile Merge Rules] 은 데이터 요소가 작동하는 방식 및 마케팅 담당자에게 제공하는 가치입니다.*
+   *내용 이해 [!UICONTROL Profile Merge Rules] 즉, 작동 방식과 마케팅 담당자에 대한 가치입니다.*
 
-* **[[!UICONTROL Profile Merge Rule]예 및 사용 사례](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
+* **[[!UICONTROL Profile Merge Rule]예제 및 사용 사례](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
 
-   *이 비디오에서는 의 예를 볼 수 있습니다 [!UICONTROL Profile Merge Rules] 그리고 그 의미와 [!UICONTROL Profile Merge Rules] 해결 방법.*
+   *이 비디오에서는 의 예를 볼 수 있습니다. [!UICONTROL Profile Merge Rules] 및 그 의미와 사용 사례 [!UICONTROL Profile Merge Rules] 해결.*
 
 * **[사용자 기반 대상 만들기 및 구성](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
-   *를 설정하는 방법 알아보기 [!DNL People-Based Destination] Audience Manager UI에서*
+   *을(를) 설정하는 방법 알아보기 [!DNL People-Based Destination] Audience Manager UI에서*
 </div>
 
 <div id="recs-overview-body-1"></div>
@@ -55,7 +55,7 @@ Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 �
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ko-KR">
-      <img alt="'웹 SDK를 사용하여 Adobe Experience Cloud 구현' 자습서에 대한 축소판 이미지" src="assets/implement-web-sdk.jpg" />
+      <img alt="'웹 SDK로 Adobe Experience Cloud 구현 튜토리얼'에 대한 썸네일 이미지" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=ko-KR">
@@ -63,12 +63,12 @@ Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 �
     </a>
     </div>
     <p>
-    <em>Adobe Experience Platform Web SDK를 사용하여 Experience Cloud 애플리케이션을 구현하는 방법을 알아봅니다.</em>
+    <em>Adobe Experience Platform Web SDK를 사용하여 Experience Cloud 애플리케이션을 구현하는 방법에 대해 알아봅니다.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
-      <img alt="실시간 CDP에서 세그먼트 이해 자습서에 대한 축소판 이미지" src="assets/331901.jpg" />
+      <img alt="'실시간 CDP의 세그먼트 이해' 자습서에 대한 썸네일 이미지" src="assets/331901.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
@@ -76,12 +76,12 @@ Audience Manager 자습서 사이트를 시작합니다. 와 함께 이러한 �
     </a>
     </div>
     <p>
-    <em>이 비디오에서는 Audience Manager과 실시간 CDP 간의 세그먼트 및 세그먼트 생성의 차이점을 살펴봅니다.</em>
+    <em>이 비디오에서는 Audience Manager과 Real-Time CDP 간의 세그먼트 및 세그먼트 생성에서의 차이점을 살펴봅니다.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-      <img alt="'Audience Manager에서 예측 대상 구성 및 보고' 자습서의 축소판 이미지" src="assets/33630.jpg" />
+      <img alt=""Audience Manager에서 예측 대상 구성 및 보고" 자습서의 썸네일 이미지" src="assets/33630.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">

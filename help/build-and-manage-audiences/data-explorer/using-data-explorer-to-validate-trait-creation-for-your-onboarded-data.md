@@ -1,6 +1,6 @@
 ---
-title: 'Data Explorer을 사용하여 온보딩된 데이터에 대한 트레이트 생성의 유효성을 검사합니다 '
-description: Audience Manager의 가장 강력한 기능 중 하나는 오프라인 데이터를 온보딩하고 온라인 데이터와 함께 결합하는 기능입니다. 이 비디오에서는 Data Explorer을 사용하여 이 온보딩된 데이터를 활용하기 위해 필요한 모든 트레이트를 작성했는지 확인하는 방법을 알아봅니다.
+title: Data Explorer을 사용하여 온보딩된 데이터에 대한 트레이트 생성의 유효성 검사
+description: Audience Manager의 가장 강력한 기능 중 하나는 오프라인 데이터를 온보딩하여 온라인 데이터와 결합하는 기능입니다. 이 비디오에서는 Data Explorer을 사용하여 온보딩된 이 데이터를 활용하는 데 필요한 모든 트레이트를 만들었는지 확인하는 방법을 알아봅니다.
 feature: Data Explorer
 topics: null
 activity: use
@@ -18,12 +18,12 @@ ht-degree: 0%
 
 ---
 
-# Data Explorer을 사용하여 온보딩된 데이터에 대한 트레이트 생성의 유효성을 검사합니다 {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
+# Data Explorer을 사용하여 온보딩된 데이터에 대한 트레이트 생성의 유효성 검사 {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
 
-Audience Manager의 가장 강력한 기능 중 하나는 오프라인 데이터를 온보딩하고 온라인 데이터와 함께 결합하는 기능입니다. 이 비디오에서는 사용 방법을 알아봅니다 [!DNL Data Explorer] 이렇게 온보딩된 데이터를 활용하기 위해 필요한 모든 트레이트를 만들었는지 확인하려면 .
+Audience Manager의 가장 강력한 기능 중 하나는 오프라인 데이터를 온보딩하여 온라인 데이터와 결합하는 기능입니다. 이 비디오에서 를 사용하는 방법을 알아봅니다. [!DNL Data Explorer] 온보딩된 이 데이터를 활용하는 데 필요한 모든 트레이트를 만들었는지 확인하려면
 
 >[!VIDEO](https://video.tv.adobe.com/v/25149/?quality=12)
 
-대부분의 경우 데이터를 실제로 온보딩하기 전에 온보드 데이터에 대한 트레이트를 만듭니다. 하지만 이 과정에서 새로운 키와 값이 추가되고 더 이상 이 멋진 데이터를 활용하는 데 필요한 모든 트레이트가 만들어지지 않을 수 있습니다. 사용 [!UICONTROL Data Explorer], 빠른 검색을 수행하여 온보딩된 모든 데이터를 확인하고 특정 정보별로 필터링할 수 있습니다 [!UICONTROL Data Source]또는 키 및/또는 값으로 필터링합니다. 이 검색을 통해 데이터의 유효성을 효율적으로 확인할 수 있습니다.
+많은 경우 실제로 데이터를 온보딩하기 전에 온보딩된 데이터에 대한 트레이트를 만듭니다. 하지만 그 과정에서 새로운 키와 값이 추가될 수 있으며, 이러한 훌륭한 데이터를 활용하기 위해 필요한 모든 트레이트를 더 이상 생성하지 않을 수 있습니다. 포함 [!UICONTROL Data Explorer], 빠른 검색을 수행하여 온보딩된 모든 데이터를 보고 특정 기준으로 필터링할 수 있습니다 [!UICONTROL Data Source]또는 를 키 및/또는 값으로 필터링할 수도 있습니다. 이 검색을 통해 데이터의 유효성을 효율적으로 검사할 수 있습니다.
 
-에 대한 자세한 정보 [!DNL Data Explorer], 방문 [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+에 대한 자세한 내용 [!DNL Data Explorer], 방문 [https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

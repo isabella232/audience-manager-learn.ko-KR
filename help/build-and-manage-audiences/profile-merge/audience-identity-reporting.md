@@ -1,6 +1,6 @@
 ---
 title: 대상 ID 보고
-description: 대상 ID 보고에 대해 알아봅니다. 이 유형의 Audience Manager을 사용하면 ID의 개인 또는 가구 정의별로 트레이트 또는 세그먼트의 총 모집단을 보고할 수 있습니다.
+description: 대상 ID 보고에 대해 알아봅니다. Audience Manager의 이러한 유형의 보고를 사용하면 ID에 대한 개인별 또는 가구 정의별 트레이트 또는 세그먼트의 총 모집단을 보고할 수 있습니다.
 feature: profile merge
 topics: null
 audience: marketer
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 대상 ID 보고
 
-대상 ID 보고에서는 ID의 개인/가구 정의별로 트레이트 또는 세그먼트의 총 모집단을 보고할 수 있습니다. 이 비디오를 시청하여 Audience Manager 보고서에 이것이 어떻게 나타나는지 확인하십시오.
+대상 ID 보고에서는 고객이 ID에 대한 개인/가구 정의별 트레이트 또는 세그먼트의 총 모집단을 보고할 수 있습니다. 이 비디오를 통해 Audience Manager 보고서에 표시되는 방법을 확인하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

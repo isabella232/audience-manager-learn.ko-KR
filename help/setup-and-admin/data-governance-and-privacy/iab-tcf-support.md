@@ -1,6 +1,6 @@
 ---
 title: IAB TCF 2.0 지원
-description: IAB TCF에 대한 Audience Manager 플러그인과 Adobe의 옵트인 개체 및 CMP(동의 관리 공급자)에서 작동하는 방법에 대해 알아봅니다.
+description: IAB TCF에 대한 Audience Manager 플러그인과 Adobe의 옵트인 개체 및 CMP(동의 관리 공급자)와 함께 작동하는 방법에 대해 알아봅니다.
 feature: Data Governance & Privacy
 activity: implement
 doc-type: technical video
@@ -19,69 +19,69 @@ ht-degree: 0%
 
 # Audience Manager에서 IAB TCF 2.0 지원 {#iab-tcf-support-in-audience-manager}
 
-Adobe은 옵트인 기능 및 Audience Manager 플러그인을 통해 IAB 투명성 및 동의 프레임워크 2.0(TCF 2.0) 지원을 통해 사용자의 개인 정보 보호 선택을 관리 및 소통할 수 있는 수단을 제공합니다. 이 문서는 IAB TCF에 대한 Audience Manager 플러그인을 이해하고 Adobe의 옵트인 개체 및 CMP(동의 관리 공급자)와 함께 작동하는 방법을 이해하는 데 도움이 되는 설명서와 함께 작동합니다. IAB에 대한 자세한 내용은 다음 위치에서 해당 웹 사이트를 참조하십시오. [https://www.iabeurope.eu/](https://www.iabeurope.eu/).
+Adobe은 옵트인 기능 및 Audience Manager 플러그인을 통해 IAB TCF 2.0(Transparency and Consent Framework 2.0) 지원에 대한 사용자의 개인 정보 보호 선택을 관리 및 소통할 수 있는 수단을 제공합니다. 이 문서는 IAB TCF에 대한 Audience Manager 플러그인 및 Adobe의 옵트인 개체 및 동의 관리 공급자(CMP)와 함께 작동하는 방법을 이해하는 데 도움이 되는 문서와 함께 작동합니다. IAB에 대한 자세한 내용은 다음 웹 사이트를 참조하십시오. [https://www.iabeurope.eu/](https://www.iabeurope.eu/).
 
-## 첫 단계: Experience Cloud ID 옵트인 이해 {#first-step-understand-ecid-s-opt-in}
+## 첫 번째 단계: Experience Cloud ID 옵트인 이해 {#first-step-understand-ecid-s-opt-in}
 
-IAB TCF를 사용하는 방법을 이해하려면 먼저 이해해야 합니다 [!DNL Opt-in] ecid(Experience Cloud ID 서비스) 라이브러리의 일부인 기능입니다. 옵트인 작동 방식을 잘 모를 경우 다음을 참조하십시오 [이 유용한 문서](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html) 먼저 옵트인도 검토해야 합니다. [설명서](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html). 해당 리소스를 살펴본 후 이 페이지로 돌아가서 계속합니다.
+IAB TCF 작업 방법을 이해하려면 먼저 다음을 이해해야 합니다 [!DNL Opt-in] ECID(Experience Cloud ID 서비스) 라이브러리의 일부인 기능입니다. 옵트인 작동 방식에 익숙하지 않은 경우 다음을 참조하십시오. [이 유용한 문서](https://experienceleague.adobe.com/docs/core-services-learn/tutorials/id-service/use-opt-in-to-control-experience-cloud-activities-based-on-user-consent.html) 첫 번째. 또한 옵트인을 검토해야 합니다 [설명서](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/optin-overview.html). 해당 리소스를 모두 사용한 후에는 이 페이지로 돌아가 계속하십시오.
 
-## IAB TCF용 Audience Manager 플러그인 {#the-audience-manager-plug-in-for-iab-tcf}
+## IAB TCF를 위한 Audience Manager 플러그인 {#the-audience-manager-plug-in-for-iab-tcf}
 
-이제 옵트인 서비스 작동 방식에 대한 기본적인 지식이 적어도 있으므로 Audience Manager이 해당 옵트인 서비스에 레이어를 제공할 수 있습니다 [!DNL IAB Transparency and Consent Framework (TCF)] 은 옵트인 개체에 플러그인을 통해 수행됩니다.
+이제 옵트인 서비스의 작동 방식에 대한 기본적인 지식이 있으므로 Audience Manager을 여기에 계층화할 수 있습니다 [!DNL IAB Transparency and Consent Framework (TCF)] 플러그인을 통해 옵트인 개체에 대한 지원이 수행됩니다.
 
-IAB TCF용 Audience Manager 플러그인은 옵트인의 기능을 확장하며, AAM 고객이 IAB TCF에 따라 다운스트림 파트너에게 사용자 개인 정보 보호 선택 사항을 평가, 준수 및 전달할 수 있도록 해줍니다. 데이터 컨트롤러(Adobe 고객인 경우)와 공급업체(DMP, DSP, SSP, 광고 서버 등)에 대한 표준을 제공합니다. 를 사용하여 동의 구간에 대한 동의를 이해할 수 있습니다.
+IAB TCF용 Audience Manager 플러그인은 옵트인의 기능을 확장하며 AAM 고객이 IAB TCF에 따라 사용자 개인 정보 보호 선택 사항을 평가하고 준수하며 다운스트림 파트너에게 전달할 수 있도록 합니다. 데이터 컨트롤러(Adobe 고객) 및 공급업체(DMP, DSP, SSP, 광고 서버 등)에 대한 표준을 제공합니다. 을 사용하여 동의 환경 전체에서 동의를 이해할 수 있습니다.
 
 ## IAB TCF 활성화 {#enabling-iab-tcf}
 
-아래 짧은 비디오에 표시된 것처럼 간단한 확인란이므로 IAB TCF용 Audience Manager 플러그인 활성화는 Adobe Experience Platform Launch을 사용하는 경우 쉽게 수행할 수 있습니다.
+Adobe Experience Platform Launch을 사용하는 경우 아래 짧은 비디오에 표시된 간단한 확인란이므로 IAB TCF용 Audience Manager 플러그인을 쉽게 활성화할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26433/?quality=12)
 
-또는 Launch를 사용하지 않는 경우 `isIabContext=true` Experience Cloud 방문자를 인스턴스화할 때 사용하도록 설정하는 것이 좋습니다. 이렇게 하면 IAB TCF 플로우가 시작됩니다. 즉, IAB TCF를 사용하여 IAB TCF 문자열을 쿼리하고 다시 옵트인에 제공하고 Experience Cloud 솔루션과 통신합니다.
+또는 Launch를 사용하지 않는 경우 `isIabContext=true` Experience Cloud 방문자를 인스턴스화할 때 활성화합니다. 이렇게 하면 IAB TCF 흐름이 시작됩니다. 즉, 동의 수집에 다른 단계를 추가하고, IAB TCF를 사용하여 IAB TC 문자열을 쿼리하고 이를 다시 옵트인에 제공하여 Experience Cloud 솔루션과 통신합니다.
 
 ## IAB TC 문자열 {#iab-tcf-consent-string}
 
-IAB가 제공하는 표준 중 하나는 &quot;동의 문자열&quot;(즉, &quot;DaisyBit&quot;이라고도 함)이며, 두 목록은 실제로 함께 연결되어 있습니다.
+IAB가 제공하는 표준 중 하나는 &quot;동의 문자열&quot;(DaisyBit이라고도 함)이며, 실제로 두 개의 목록이 합쳐져 있습니다.
 
-1. 목적: **What** 동의를 받는 건가요?
-1. 공급업체: **Who** 동의해야 합니까?
+1. 목적: **내용** 은(는) 다음 작업에 동의합니까?
+1. 공급업체: **사용자** 에 동의합니까?
 
 ### 목적 {#purposes}
 
-IAB TCF 2.0을 사용하는 경우 (공급업체가 방문자의 데이터로 수행할 수 있는 작업)에 동의를 수집하는 10가지 &quot;목적&quot;이 있습니다. Adobe Audience Manager은 10개의 모든 동의를 필요로 하지 않으며, 대신 공급업체 동의 외에 다음 목적을 위한 동의만 필요합니다.
+IAB TCF 2.0에는 동의를 수집하는 10가지 &quot;목적&quot;이 있습니다(공급업체가 방문자의 데이터로 수행할 수 있는 작업). Adobe Audience Manager은 10개 모두를 필요로 하지 않으며, 공급업체 동의 외에 다음 목적으로만 동의해야 합니다.
 
-* **목적 1:** 장치에 정보 저장 및/또는 액세스
-* **목적 10:** 제품 개발 및 개선
-* **특수 목적 1:** 보안을 유지하고, 사기를 방지하며 디버그를 수행합니다.
+* **목적 1:** 디바이스에 대한 정보 저장 및/또는 액세스
+* **목적 10:** 제품 개발 및 개선;
+* **특수 목적 1:** 보안을 보장하고, 사기를 방지하고, 디버그를 수행할 수 있습니다.
 
-이 부분은 IAB TC 문자열의 첫 번째 부분이며, 해당 목적/활동이 승인되었는지 여부를 나타내는 1과 0으로 방금 기록됩니다.
+이는 IAB TC 문자열의 첫 번째 부분이며 해당 목적/활동이 승인되었는지 여부를 나타내는 1과 0으로 기록됩니다.
 
 >[!NOTE]
 >
->IAB 규정에 따라 특수 목적 1(보안 확인, 사기 방지 및 디버그)이 항상 동의되며 사용자는 이에 대해 이의를 제기할 수 없습니다.
+>IAB 규정에 따라 특수 목적 1(보안 보장, 사기 방지 및 디버그)은 항상 동의하며 사용자는 이에 반대할 수 없습니다.
 
 ### 공급업체 {#vendors}
 
-IAB TC 문자열의 또 다른 부분은 수백 개의 공급업체 긴 목록이므로 방문자에게 사이트에 태그가 있고 사용할 벤더를 선택할 수 있는 적용 가능한 공급업체 목록을 제공할 수 있습니다. 노점상들은 목록에 자신의 위치를 유지한다. 예를 들어 이 목록에 있는 Adobe Audience Manager의 공급업체 번호는 565입니다. 목록의 해당 숫자에 &quot;1&quot;이 있다면, Audience Manager은 목록의 맨 앞부분에서 승인된 목적을 수행할 수 있습니다. AAM spot에 &quot;0&quot;이 있는 경우 데이터로 작업을 수행할 수 없습니다.
+IAB TC 문자열의 또 다른 부분은 수백 개의 공급업체가 포함된 긴 목록이므로 방문자는 사이트에 태그가 있고 사용할 공급업체를 선택할 수 있는 해당 공급업체 목록을 제공받을 수 있습니다. 공급업체는 목록에 위치를 유지합니다. 예를 들어 이 목록에 있는 Adobe Audience Manager의 공급업체 번호는 565입니다. 목록의 해당 번호에 &quot;1&quot;이 있는 경우 Audience Manager은 목록의 맨 앞에서 승인된 목적을 수행할 수 있습니다. AAM의 스폿에 &quot;0&quot;이 있으면 데이터로 아무 작업도 수행할 수 없습니다.
 
-**고객이 IAB TCF를 사용하여 이러한 목적과 공급업체의 선택을 하거나, 모든 활동을 승인/거부하기 위한 UI를 제공하려면, IAB TCF에 등록된 CMP 파트너를 사용하거나, IAB TCF를 지원하고 IAB TCF에 등록된 CMP 파트너를 작성해야 합니다.**
+**고객이 IAB TCF를 사용하여 이러한 목적과 공급업체를 선택하거나 모든 활동을 승인/승인하지 않을 수 있도록 UI를 제공하는 Audience Manager의 경우, IAB TCF에 등록된 CMP 파트너를 사용하거나 IAB TCF를 지원하고 IAB TCF에 등록된 파트너를 빌드해야 합니다.**
 
 ## 옵트인: IAB와 Adobe 애플리케이션 간 번역 {#opt-in-translating-between-iab-and-adobe-solutions}
 
-IAB TCF를 사용할 경우 얻을 수 있는 이점 중 하나는 위에 나열된 표준 목적이 최종 사용자에게 Adobe 솔루션 목록보다 자신이 승인하는 것에 대한 생각을 더 많이 줄 수 있다는 것입니다. 최종 사용자는 &quot;승인&quot; Audience Manager 또는 [!DNL Target]그러나 &quot;한 장치에 정보를 저장 및/또는 액세스&quot; 또는 &quot;제품 개발 및 개선&quot;은 사람들이 이해하고 동의를 얻는 것이 더 쉽습니다.
+IAB TCF를 사용하면 이점 중 하나는 위에 나열된 표준 목적을 통해 최종 사용자는 Adobe 솔루션 목록보다 자신이 승인하는 것에 대한 아이디어를 더 많이 얻을 수 있다는 것입니다. 최종 사용자는 Audience Manager 또는 [!DNL Target], 그러나 &quot;장치에 정보 저장 및/또는 액세스&quot; 또는 &quot;제품 개발 및 개선&quot;은 사용자가 이해하고 동의하는 것이 더 쉬울 수 있습니다.
 
-Audience Manager을 승인하려면(즉, 옵트인에 대한 IAB 목적 번역을 위해 AAM에 &quot;예&quot; 투표를 하려면), 위에 나열된 대로 목적 1 및 10을 최종 사용자의 동의를 받아야 합니다. 이러한 항목이 승인되지 않았거나 또는 벤더가 승인되지 않은 경우에는 AAM에서 픽셀을 실행하거나 쿠키를 설정하지 않습니다. 또한 많은 고객이 최종 사용자에게 Audience Manager(및 기타 Experience Cloud 솔루션)의 사용을 허용 또는 허용하지 않는 &quot;모두 또는 없음&quot; UI를 제공하도록 선택한다는 것을 알고 있는 것이 좋습니다.
+Audience Manager이 승인되려면(즉, 옵트인에 대한 IAB 목적을 번역하여 AAM에 &quot;예&quot; 투표를 제공하려면 위에 나열된 목적 1과 10은 최종 사용자의 동의를 받아야 합니다. 이 중 하나가 승인되지 않거나 공급업체가 승인되지 않은 경우 AAM은 픽셀 실행을 실행하거나 쿠키를 설정하지 않습니다. 또한 많은 고객이 최종 사용자에게 &quot;모두 또는 전혀 없음&quot; UI를 제공하도록 선택함으로써 Audience Manager(및 기타 Experience Cloud 솔루션)의 사용을 허용하거나 허용하지 않는다는 것을 아는 것이 좋습니다.
 
-다음과 같은 유용한 정보가 있습니다 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en) iab TCF용 Audience Manager 플러그인이 Publisher와 Advertiser 사용 사례 모두에 적용되는 방식에 대해 알아봅니다.
+에 몇 가지 좋은 정보가 있습니다. [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en) iab TCF 흐름용 Audience Manager 플러그인이 게시자와 광고주 사용 사례 모두에 적용되는 방법에 대해 설명합니다.
 
-## IAB: 다운스트림으로 동의 보내기 {#iab-sending-consent-downstream}
+## IAB: 동의 다운스트림 전송 {#iab-sending-consent-downstream}
 
-IAB TCF용 Audience Manager 플러그인을 사용하면 사용자의 동의 선택 사항이 글로벌 공급업체 목록에 있는 파트너에 대한 플랫폼 수준(타사) ID 동기화로도 전송되어 파트너가 사용자 동의 정보를 가지고 있으며 이에 대해서도 조치를 취할 수 있습니다. 이 정보는 다음 두 가지 변수로 전송됩니다.
+IAB TCF용 Audience Manager 플러그인을 사용하면, 글로벌 공급업체 목록에 있는 파트너의 플랫폼 수준(타사) ID 동기화에도 사용자의 동의 선택 사항이 전송되어 파트너가 사용자 동의 정보를 가지고 그에 따라 작동할 수 있습니다. 이 정보는 다음 두 가지 변수로 전송됩니다.
 
 * gdpr = 1
-* gdpr_consent = [인코딩 동의 문자열]
+* gdpr_consent = [인코딩된 동의 문자열]
 
-주의 사항은 사용자가 IAB 컨텍스트에 있고 동의를 제공하지 않는(또는 음의 동의 제공) 경우, Audience Manager이 IAB TC 문자열을 전혀 수집하지 않으며 이러한 호출이 삭제된다는 것입니다. 그래서, 그 경우에는... 동의 하류의 통과가 없습니다.
+Audience Manager이 IAB 컨텍스트에 있고 동의를 제공하지 않거나(또는 부정적인 동의를 제공), 사용자가 IAB TC 문자열을 전혀 수집하지 않고 호출이 중단되는 것이 주의해야 합니다. 그러니까, 그 경우에는... 다운스트림으로 동의를 전달하지 않습니다.
 
 ## 데모 {#demo}
 
@@ -89,4 +89,4 @@ IAB TCF용 Audience Manager 플러그인을 사용하면 사용자의 동의 선
 
 >[!VIDEO](https://video.tv.adobe.com/v/26434/?quality=12)
 
-구현 및 테스트, 사용 사례, 워크플로우 등 IAB TCF 2.0용 Audience Manager 플러그인에 대한 자세한 내용은 다음을 참조하십시오. [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html).
+구현 및 테스트 방법, 사용 사례 및 워크플로를 포함하여 IAB TCF 2.0용 Audience Manager 플러그인에 대한 자세한 내용은 다음을 참조하십시오. [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html).

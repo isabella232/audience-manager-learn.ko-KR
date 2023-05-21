@@ -1,6 +1,6 @@
 ---
-title: setCustomerIDs() 를 사용하여 PII를 선언된 ID로 수집 및 해시합니다
-description: 이메일 주소를 수집 및 해시할 Experience Cloud ID 서비스 setCustomerIDs() 메서드에 대해 알아봅니다. 선언된 ID로 사용하는 방법을 알아봅니다.
+title: setCustomerIDs()를 사용하여 PII를 선언된 ID로 수집하고 해시합니다.
+description: 이메일 주소를 수집하고 해시하는 Experience Cloud ID 서비스 setCustomerIDs() 메서드에 대해 알아봅니다. 선언된 ID로 사용하는 방법에 대해 알아봅니다.
 feature: People-based Destinations
 topics: null
 activity: implement
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# setCustomerIDs() 를 사용하여 PII를 선언된 ID로 수집 및 해시합니다
+# setCustomerIDs()를 사용하여 PII를 선언된 ID로 수집하고 해시합니다.
 
-이 비디오에서는 Experience Cloud ID 서비스를 사용하는 이유와 방법을 알아봅니다 `setCustomerIDs()` 이메일 주소를 수집 및 해시하고 선언된 ID로 사용하는 방법입니다. 이렇게 하면 CRM ID와 이메일 주소가 함께 결합될 뿐만 아니라 Adobe Audience Manager UUID에도 동기화됩니다(예: 익명 장치 ID). 그런 다음 해시된 이러한 이메일 주소를 사용자 기반 대상으로 보낼 수 있습니다.
+이 비디오에서는 Experience Cloud ID 서비스를 사용하는 이유와 방법에 대해 알아봅니다 `setCustomerIDs()` 이메일 주소를 수집 및 해시하고 선언된 ID로 사용하는 방법입니다. 이렇게 하면 CRM ID와 이메일 주소를 함께 연결할 뿐만 아니라 익명 장치 ID와 같은 Adobe Audience Manager UUID에 동기화됩니다. 그런 다음 이러한 해시된 이메일 주소를 사람 기반 대상으로 전송할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29136/?quality=12)
 

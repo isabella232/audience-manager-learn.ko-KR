@@ -1,6 +1,6 @@
 ---
 title: 사용자 기반 대상 비디오 및 자습서
-description: Audience Manager의 사용자 기반 대상에 대해 알아봅니다. 이메일 주소 등과 같이 해시된 식별자를 기반으로 대상 세그먼트를 만들기 위해 온라인 및 오프라인 데이터에 세그멘테이션을 적용하는 방법을 살펴봅니다.
+description: Audience Manager의 사용자 기반 대상에 대해 알아봅니다. 온라인 및 오프라인 데이터에 세그먼테이션을 적용하여 이메일 주소 등 해시된 식별자를 기반으로 대상 세그먼트를 만드는 방법을 살펴봅니다!
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -19,18 +19,18 @@ ht-degree: 0%
 
 # 사용자 기반 대상 비디오 및 자습서
 
-사용자 기반 대상 을 사용하면 온라인 및 오프라인 데이터에 세그멘테이션을 적용하여 이메일 주소와 같이 해시된 식별자를 기반으로 대상 세그먼트를 만들 수 있습니다. 그런 다음 이러한 세그먼트를 다음과 같은 소셜 플랫폼에 보낼 수 있습니다 [!DNL Facebook] 또는 [!DNL LinkedIn]: 대상을 타깃팅할 수 있는 위치입니다.
+사용자 기반 대상을 사용하면 온라인 및 오프라인 데이터에 세그멘테이션을 적용하여 이메일 주소와 같이 해시된 식별자를 기반으로 대상 세그먼트를 만들 수 있습니다. 그런 다음 이러한 세그먼트를 다음과 같은 소셜 플랫폼에 보낼 수 있습니다. [!DNL Facebook] 또는 [!DNL LinkedIn]를 사용하여 대상을 타깃팅할 수 있습니다.
 
-이 섹션에는 사용자 기반 대상에 대한 주제에 대한 비디오 및 자습서가 포함되어 있습니다. 사용자 기반 대상을 설정하는 흐름/프로세스를 통해 작업할 때 이러한 순서대로 의도적으로 나열됩니다.
+이 섹션에는 사용자 기반 대상에 대한 주제에 대한 비디오 및 튜토리얼이 포함되어 있습니다. 사용자 기반 대상 설정의 흐름/프로세스를 진행할 때 이러한 항목이 의도적으로 이 순서로 나열되었습니다.
 
 * [사용자 기반 대상 데이터 흐름](people-based-destinations-data-flow.md)
 * [사용자 기반 대상에 대한 데이터 소스 만들기](creating-a-data-source-for-people-based-destinations.md)
-* [사용자 기반 대상에 대한 해시된 PII 데이터 섭취 이해](understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
-* [사용자 기반 대상에 대해 해시된 PII 수집](ingesting-hashed-pii-for-people-based-destinations.md)
-* [setCustomerIDs()를 사용하여 PII를 선언된 ID로 수집 및 해시](using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
+* [사용자 기반 대상에 대한 해시된 PII 데이터 수집 이해](understanding-hashed-pii-data-ingestion-for-people-based-destinations.md)
+* [사용자 기반 대상에 대한 해시된 PII 수집](ingesting-hashed-pii-for-people-based-destinations.md)
+* [setCustomerIDs()를 사용하여 PII를 수집하여 선언된 ID로 해시](using-setcustomerids-to-ingest-and-hash-pii-as-a-declared-id.md)
 * [사용자 기반 대상에 대한 프로필 병합 규칙 구성](configuring-profile-merge-rules-for-people-based-destinations.md)
 * [사용자 기반 대상에 대한 세그먼트 만들기](creating-segments-for-people-based-destinations.md)
 * [사용자 기반 대상 만들기 및 구성](create-and-configure-people-based-destinations.md)
-* [LinkedIn 사용자 기반 대상 이해 및 구성](understanding-and-configuring-the-linkedin-pbd.md)
+* [linkedIn 사용자 기반 대상 이해 및 구성](understanding-and-configuring-the-linkedin-pbd.md)
 
-이 비디오들은 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+이러한 비디오는 [설명서](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).

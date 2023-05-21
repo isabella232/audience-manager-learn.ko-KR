@@ -1,6 +1,6 @@
 ---
 title: 일치율 이해
-description: Adobe Audience Manager의 일치율, 일치율 및 계산된 방법에 대해 알아봅니다. 또한 일치율이 낮은 원인이 될 수 있는 오류와 모범 사례에 대해 알아봅니다.
+description: Adobe Audience Manager의 일치율, 정의 및 계산 방법에 대해 알아봅니다. 또한 모범 사례와 낮은 일치율을 유발할 수 있는 원인에 대해 알아봅니다.
 feature: Match Rates
 doc-type: presentation
 thumbnail: 29830.jpg
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 일치율 이해
 
-이 비디오에서는 Adobe Audience Manager의 일치율, 일치율 및 계산된 방법을 이해하는 데 도움이 됩니다. 또한 일부 우수 사례와 일치율이 낮은 원인이 되는 사항도 알아봅니다.
+이 비디오는 Adobe Audience Manager의 일치율, 정의 및 계산 방법을 이해하는 데 도움이 됩니다. 또한 몇 가지 모범 사례와 낮은 일치율을 유발할 수 있는 원인에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29830/?quality=12)
 

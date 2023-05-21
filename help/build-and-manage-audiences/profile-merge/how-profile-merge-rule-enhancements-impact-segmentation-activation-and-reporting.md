@@ -1,5 +1,5 @@
 ---
-title: 프로필 병합 규칙 개선 사항이 세그먼테이션, 활성화 및 보고에 미치는 영향
+title: 프로필 병합 규칙 개선 사항이 세그멘테이션, 활성화 및 보고에 미치는 영향
 description: 프로필 병합 규칙 개선 사항이 Audience Manager UI의 총 트레이트 및 세그먼트 모집단에 미치는 영향 이해
 feature: Profile Merge
 topics: null
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# 방법 [!UICONTROL Profile Merge Rule] 개선 사항은 세그먼테이션, 활성화 및 보고에 영향을 줍니다
+# 방법 [!UICONTROL Profile Merge Rule] 세그먼테이션, 활성화 및 보고에 영향을 주는 개선 사항
 
-방법 이해 [!UICONTROL Profile Merge Rule] 개선 사항이 영향을 줍니다 [!UICONTROL Total Trait] 및 [!UICONTROL Segment Populations] Audience Manager에서 확인하십시오.
+방법 이해 [!UICONTROL Profile Merge Rule] 개선 사항은 다음 사항에 영향을 줍니다. [!UICONTROL Total Trait] 및 [!UICONTROL Segment Populations] Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28972/?quality=12)

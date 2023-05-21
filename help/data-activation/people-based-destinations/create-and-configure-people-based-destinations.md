@@ -1,6 +1,6 @@
 ---
 title: 사용자 기반 대상 만들기 및 구성
-description: '사용자 기반 대상을 만들기 위한 사전 요구 사항과 통합 계정(예: Facebook 링크)을 구성하는 방법에 대해 알아봅니다. 대상 자체의 제품 내 설정을 알아봅니다.'
+description: 사용자 기반 대상을 만들기 위한 사전 요구 사항과 통합 계정(Facebook과 같은 파트너에 대한 링크)을 구성하는 방법에 대해 알아봅니다. 대상 자체의 제품 내 설정에 대해 알아봅니다.
 feature: People-based Destinations
 topics: null
 activity: setup
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # 만들기 및 구성 [!UICONTROL People-based Destinations]
 
-이 비디오에서는 먼저 사용자 기반 대상을 만들기 위한 사전 요구 사항에 대한 정보를 제공한 다음, 통합 계정(예: 파트너에 대한 링크)을 구성하는 방법을 보여줍니다 [!DNL Facebook]). 그런 다음 대상 자체의 제품 내 설정을 안내합니다.
+이 비디오는 먼저 사용자 기반 대상을 만들기 위한 사전 요구 사항에 대한 몇 가지 정보를 제공한 다음, 통합 계정을 구성하는 방법도 보여 줍니다(예: 파트너에 대한 링크). [!DNL Facebook]). 그런 다음 대상 자체의 제품 내 설정을 안내합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28955/?quality=12)
