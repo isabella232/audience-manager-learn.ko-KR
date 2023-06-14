@@ -1,8 +1,8 @@
 ---
 title: Audience Manager의 기본 용어 및 개념 이해
-description: 이 지원 비디오를 통해 시그널, 트레이트, 세그먼트 등 Adobe Audience Manager를 시작하는 데 도움이 되는 기본 용어와 개념을 살펴보십시오.
-landing-page-description: 이 지원 비디오를 통해 시그널, 트레이트, 세그먼트 등 Adobe Audience Manager를 시작하는 데 도움이 되는 기본 용어와 개념을 살펴보십시오.
-short-description: 이 지원 비디오를 통해 시그널, 트레이트, 세그먼트 등 Adobe Audience Manager를 시작하는 데 도움이 되는 기본 용어와 개념을 살펴보십시오.
+description: 이 지원 비디오를 통해 시그널, 특성, 세그먼트 등 Adobe Audience Manager를 시작하는 데 도움이 되는 기본 용어와 개념을 살펴보십시오.
+landing-page-description: 이 지원 비디오를 통해 시그널, 특성, 세그먼트 등 Adobe Audience Manager를 시작하는 데 도움이 되는 기본 용어와 개념을 살펴보십시오.
+short-description: 이 지원 비디오를 통해 시그널, 특성, 세그먼트 등 Adobe Audience Manager를 시작하는 데 도움이 되는 기본 용어와 개념을 살펴보십시오.
 feature: Overview
 topics: null
 activity: understand
