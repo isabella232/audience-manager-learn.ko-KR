@@ -1,7 +1,7 @@
 ---
 title: Audience Manager 사용자를 위한 실시간 CDP의 데이터 거버넌스 이해
 description: 이 비디오는 Audience Manager에서 사용할 수 있었던 기능과 비교하여 Audience Manager 사용자에게 Real-time Customer Data Platform의 데이터 거버넌스 기능을 안내합니다. 이 비디오에서는 데이터 사용 및 레이블 적용 (DULE) 프레임워크와 적용 가능한 Platform 내 위치를 설명합니다.
-feature: Platform Integration
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337
 exl-id: 1d99c786-8d64-4877-a4e7-7026a5966d8c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%

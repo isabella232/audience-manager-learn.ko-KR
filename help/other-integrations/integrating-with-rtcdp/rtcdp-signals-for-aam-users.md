@@ -1,7 +1,7 @@
 ---
 title: Audience Manager 사용자를 위한 실시간 CDP의 신호 이해
 description: 이 비디오는 Real-time Customer Data Platform(실시간 CDP)로 전환하는 Audience Manager 사용자를 대상으로 하며, 사용자가 Audience Manager에서 특성을 빌드하는 데 사용하는 신호(키-값 쌍)가 Platform에서 사용되는 방식에 대해 설명합니다.
-feature: Platform Integration
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305
 exl-id: 96f841c9-d185-4b0b-b0de-e4ea708b518c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 1%

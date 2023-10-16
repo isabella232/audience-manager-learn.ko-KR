@@ -1,7 +1,7 @@
 ---
 title: Audience Manager 사용자를 위한 실시간 CDP의 자사 데이터 수집 이해
 description: 이 비디오에서는 Adobe Audience Manager을 사용한 사용자의 Real-time Customer Data Platform(실시간 CDP)으로의 자사 오프라인 데이터 수집에 대해 설명합니다. 데이터 수집과 관련하여 두 제품 간의 몇 가지 주요 차이점을 살펴보고 프로세스가 실시간 CDP로 이동할 때까지 Audience Manager 데이터 커넥터를 임시 방편으로 사용할 수 있는 방법을 보여 줍니다.
-feature: Platform Integration
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 331276.jpg
 kt: 7128
 exl-id: bdd8d9b2-92f9-4aa0-a0b7-5e3fb63196eb
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%

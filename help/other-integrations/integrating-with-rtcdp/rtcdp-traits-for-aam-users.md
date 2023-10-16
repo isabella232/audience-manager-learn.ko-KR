@@ -1,7 +1,7 @@
 ---
 title: Audience Manager 사용자를 위한 실시간 CDP의 특성 이해
 description: Audience Manager에서 Real-time Customer Data Platform으로 이동할 때 개념의 차이점을 이해하는 것이 도움이 됩니다. 이 비디오에서는 Audience Manager의 트레이트와 Real-Time CDP에 해당하는 트레이트를 다룹니다.
-feature: Platform Integration
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 331900.jpg
 kt: 7201
 exl-id: 24453651-2c3d-41a1-a659-759b227d43ac
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 1%
